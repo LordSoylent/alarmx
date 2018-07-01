@@ -6,13 +6,13 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/dash
-src/dashd
-src/dash-cli
-src/dash-tx
-src/test/test_dash
-src/qt/test/test_dash-qt
-src/bench/bench_dash
+src/alarmx
+src/alarmxd
+src/alarmx-cli
+src/alarmx-tx
+src/test/test_alarmx
+src/qt/test/test_alarmx-qt
+src/bench/bench_alarmx
 
 # autoreconf
 Makefile.in
@@ -35,8 +35,8 @@ config.log
 config.status
 configure
 libtool
-src/config/dash-config.h
-src/config/dash-config.h.in
+src/config/alarmx-config.h
+src/config/alarmx-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -62,7 +62,7 @@ libconftest.dylib*
 *.o
 *.o-*
 *.patch
-.dash
+.alarmx
 *.a
 *.pb.cc
 *.pb.h
@@ -81,12 +81,12 @@ libconftest.dylib*
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-dash-qt
-Dash-Qt.app
+alarmx-qt
+Alarmx-Qt.app
 
 # Unit-tests
 Makefile.test
-dash-qt_test
+alarmx-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -100,7 +100,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_dash.coverage/
+test_alarmx.coverage/
 total.coverage/
 coverage_percent.txt
 
@@ -123,12 +123,12 @@ share/BitcoindComparisonTool.jar
 .autotools
 /doc/doxygen/
 
-libdashconsensus.pc
-src/qt/dash-qt.bash
+libalarmxconsensus.pc
+src/qt/alarmx-qt.bash
 qa/pull-tester/tests-config.sh
 
 #development symlinks
-dash-cli
-dashd
-dash-qt
+alarmx-cli
+alarmxd
+alarmx-qt
 make

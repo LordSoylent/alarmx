@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Alarmx
+Comment=Alarmx P2P Cryptocurrency
+Comment[fr]=Alarmx, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Alarmx, eşten eşe kriptografik sanal para birimi
+Exec=alarmx-qt %u
+Terminal=false
+Type=Application
+Icon=alarmx128
+MimeType=x-scheme-handler/alarmx;
+Categories=Office;Finance;

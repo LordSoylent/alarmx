@@ -1,0 +1,6 @@
+usr/local/bin/alarmx-qt usr/bin
+share/pixmaps/alarmx32.xpm usr/share/pixmaps
+share/pixmaps/alarmx16.xpm usr/share/pixmaps
+share/pixmaps/alarmx128.png usr/share/pixmaps
+debian/alarmx-qt.desktop usr/share/applications
+debian/alarmx-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,22 @@
+[Unit]
+Description=Alarmx's distributed currency daemon
+After=network.target
+
+[Service]
+User=alarmxcore
+Group=alarmxcore
+
+Type=forking
+PIDFile=/var/lib/alarmxd/alarmxd.pid
+ExecStart=/usr/bin/alarmxd -daemon -pid=/var/lib/alarmxd/alarmxd.pid \
+-conf=/etc/alarmxcore/alarmx.conf -datadir=/var/lib/alarmxd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

@@ -123,7 +123,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * Alarmx RPC command dispatcher.
  */
 class CRPCTable
 {
