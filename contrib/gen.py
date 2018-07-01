@@ -1,5 +1,5 @@
 import hashlib, binascii, struct, array, os, time, sys, optparse
-import mixhash
+import xcoin_hash
 
 from binascii import unhexlify, hexlify
 
@@ -26,7 +26,7 @@ def main():
 
 def get_args():
   parser = optparse.OptionParser()
-  parser.add_option("-t", "--time", dest="time", default=int(time.time()), 
+  parser.add_option("-t", "--time", dest="time", default=int(time.time()),
                    type="int", help="the (unix) time when the genesisblock is created")
   parser.add_option("-z", "--timestamp", dest="timestamp", default="The Times 18/Jan/2018. Don't work for weekends, work for our goals.",
                    type="string", help="the pszTimestamp found in the coinbase of the genesisblock")
@@ -99,7 +99,7 @@ def create_transaction(input_script, output_script,options):
   #tx.out_value         = struct.pack('<q' ,0x000000012a05f200) #50 coins
   tx.output_script_len = 0x43
   tx.output_script     = output_script
-  tx.locktime          = 0 
+  tx.locktime          = 0
   return transaction.build(tx)
 
 
@@ -167,11 +167,11 @@ def generate_hashes_from_block(data_block, algorithm):
       sys.exit("Cannot run X11 algorithm: module dash_hash not found")
 
   # elif algorithm == 'X11':
-  #   try:      
+  #   try:
   #     header_hash = coinhash.X11Hash(data_block)[::-1]
   #   except ImportError:
   #     sys.exit("Cannot run X11 algorithm: module dash_hash not found")
-      
+
   elif algorithm == 'X13':
     try:
       import x13_hash
@@ -192,37 +192,37 @@ def generate_hashes_from_block(data_block, algorithm):
       sys.exit("Cannot run quark algorithm: module quark_hash not found")
 
   elif algorithm == 'lyra2re':
-    try:        
+    try:
         return mixhash.Lyra2re(data_block)[::-1]
     except ImportError:
         sys.exit("Cannot run quark algorithm: module mixhash.Lyra2re not found")
   elif algorithm == 'lyra2re2':
-    try:        
+    try:
         return mixhash.Lyra2re2(data_block)[::-1]
     except ImportError:
         sys.exit("Cannot run quark algorithm: module mixhash.Lyra2re not found")
 
   elif algorithm == 'keccak':
-    try:        
+    try:
         return mixhash.Keccak(data_block)[::-1]
     except ImportError:
         sys.exit("Cannot run quark algorithm: module mixhash.Keccak not found")
 
   elif algorithm == 'neoscrypt':
-    try:        
+    try:
         return mixhash.Neoscrypt(data_block)[::-1]
     except ImportError:
         sys.exit("Cannot run quark algorithm: module mixhash.Neoscrypt not found")
 
   elif algorithm == 'qubit':
-    try:        
+    try:
         return mixhash.Qubit(data_block)[::-1]
     except ImportError:
         sys.exit("Cannot run quark algorithm: module mixhash.Qubit not found")
 
 
 
-def is_genesis_hash(header_hash, target):  
+def is_genesis_hash(header_hash, target):
   try:
     return int(header_hash.encode('hex_codec'), 16) < target
   except ImportError:
