@@ -9,4 +9,4 @@ openssl ec -in main.pem -noout -text
 openssl ec -in mainalert.pem -noout -text
 openssl ec -in testnetalert.pem -noout -text
 openssl ec -in mainspork.pem -noout -text
-openssl ec -in testnetspork.pem -noout -text 
+openssl ec -in testnetspork.pem -noout -text

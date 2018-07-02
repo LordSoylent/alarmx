@@ -1255,7 +1255,7 @@ CAmount GetBlockSubsidy(int nPrevBits, int nPrevHeight, const Consensus::Params&
   CAmount ret = blockValue/2; // start at 50%
 
    int nMNPIBlock = Params().GetConsensus().nMasternodePaymentsIncreaseBlock;
-   int nMNPIPeriod = Params().GetConsensus().nMasternodePaymentsIncreasePeriod;
+   // int nMNPIPeriod = Params().GetConsensus().nMasternodePaymentsIncreasePeriod;
 
                                                                      // mainnet:
    if(nHeight > nMNPIBlock)                  ret += blockValue / 10; // 34560 - 60%
