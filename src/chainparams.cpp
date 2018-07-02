@@ -362,12 +362,12 @@ public:
         pchMessageStart[3] = 0xdc;
         nMaxTipAge = 6 * 60 * 60; // ~144 blocks behind -> 2 x fork detection time, was 24 * 60 * 60 in bitcoin
         nDelayGetHeadersTime = 0; // never delay GETHEADERS in regtests
-        nDefaultPort = 19994;
+        nDefaultPort = 93578;
         nPruneAfterHeight = 1000;
 
         consensus.hashGenesisBlock = genesis.GetHash();
-        genesis = CreateGenesisBlock(1530569872, 57650, 0x1e0ffff0, 1, 50 * COIN);
-        assert(consensus.hashGenesisBlock == uint256S("0x000005c2587a348b511a885a81f2f875a80989e826e9e81c0265765cf1249461"));
+        genesis = CreateGenesisBlock(1530527856, 1147480, 0x1e0ffff0, 1, 50 * COIN);
+        assert(consensus.hashGenesisBlock == uint256S("0x0000075fac6ee9b373ea5be823892359d524205216da440d1a1428740845e878"));
         assert(genesis.hashMerkleRoot == uint256S("0x2fb1e6eebc07f756b9925f9700482b90f7d90d0efb1a9f260275fadbebf91cdc"));
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
@@ -383,8 +383,8 @@ public:
 
         checkpointData = (CCheckpointData){
             boost::assign::map_list_of
-            ( 0, uint256S("0x000005c2587a348b511a885a81f2f875a80989e826e9e81c0265765cf1249461")),
-            1530569872,
+            ( 0, uint256S("0x0000075fac6ee9b373ea5be823892359d524205216da440d1a1428740845e878")),
+            0,
             0,
             0
         };
