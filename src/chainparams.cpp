@@ -356,19 +356,19 @@ public:
         // By default assume that the signatures in ancestors of this block are valid.
         consensus.defaultAssumeValid = uint256S("0x00");
 
-        pchMessageStart[0] = 0xfc;
-        pchMessageStart[1] = 0xc1;
-        pchMessageStart[2] = 0xb7;
+        pchMessageStart[0] = 0xf1;
+        pchMessageStart[1] = 0xc3;
+        pchMessageStart[2] = 0xe7;
         pchMessageStart[3] = 0xdc;
         nMaxTipAge = 6 * 60 * 60; // ~144 blocks behind -> 2 x fork detection time, was 24 * 60 * 60 in bitcoin
         nDelayGetHeadersTime = 0; // never delay GETHEADERS in regtests
         nDefaultPort = 19994;
         nPruneAfterHeight = 1000;
 
-        genesis = CreateGenesisBlock(1530590402, 226427, 0x1e0ffff0, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1530493201, 41976, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x0000056641dde2136ba33d3137dbf91b32fcd4eecc8180be6f71f3d28282dd85"));
-        assert(genesis.hashMerkleRoot == uint256S("0xe5014e3ec1e116e2826b1d4d1a02404fb4964250ddf2908da15d06a4c1741c4c"));
+        assert(consensus.hashGenesisBlock == uint256S("0x0000036c94cf03ba3894d2018ed024484afc12af420284449860c955a75a4996"));
+        assert(genesis.hashMerkleRoot == uint256S("0x9e7a8abdfcba3ae0f34606c30998aa14d70fa88209321b55ed93123a56302bbc"));
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
         vSeeds.clear();  //! Regtest mode doesn't have any DNS seeds.
@@ -383,7 +383,7 @@ public:
 
         checkpointData = (CCheckpointData){
             boost::assign::map_list_of
-            ( 0, uint256S("0x0000056641dde2136ba33d3137dbf91b32fcd4eecc8180be6f71f3d28282dd85")),
+            ( 0, uint256S("0x0000036c94cf03ba3894d2018ed024484afc12af420284449860c955a75a4996")),
             0,
             0,
             0
