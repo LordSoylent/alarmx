@@ -1232,13 +1232,13 @@ NOTE:   unlike bitcoin we are using PREVIOUS block height here,
 CAmount GetBlockSubsidy(int nPrevBits, int nPrevHeight, const Consensus::Params& consensusParams, bool fSuperblockPartOnly)
 {
   if (nPrevHeight == 0) {
-       return 850000 * COIN;
+       return 30000000 * COIN;
    }
 
     // LogPrintf("height %u diff %4.2f reward %d\n", nPrevHeight, dDiff, nSubsidyBase);
-     CAmount nSubsidy = 150 * COIN;
+     CAmount nSubsidy = 18 * COIN;
 
-    // yearly decline of production by ~7.1% per year, projected ~18M coins max by year 2050+.
+    // yearly decline of production by ~7.1% per year, projected ~100M coins max by year 2050+.
     for (int i = consensusParams.nSubsidyHalvingInterval; i <= nPrevHeight; i += consensusParams.nSubsidyHalvingInterval) {
         nSubsidy -= nSubsidy/14;
     }
@@ -1252,13 +1252,17 @@ CAmount GetBlockSubsidy(int nPrevBits, int nPrevHeight, const Consensus::Params&
 
   CAmount GetMasternodePayment(int nHeight, CAmount blockValue)
 {
-    // Block reward is divided equally between the Miner the Masternode, except for the first block
-    CAmount ret = blockValue;
-    if (nHeight > 1) {
-        ret = ret / 2;
-    }
+  CAmount ret = blockValue/2; // start at 50%
 
-    return ret;
+   int nMNPIBlock = Params().GetConsensus().nMasternodePaymentsIncreaseBlock;
+   int nMNPIPeriod = Params().GetConsensus().nMasternodePaymentsIncreasePeriod;
+
+                                                                     // mainnet:
+   if(nHeight > nMNPIBlock)                  ret += blockValue / 10; // 34560 - 60%
+//  if(nHeight > nMNPIBlock+(nMNPIPeriod* 1)) ret += blockValue / 10; // 141280 - 70% - 2018-07-30
+
+   return ret;
+
 }
 
 
