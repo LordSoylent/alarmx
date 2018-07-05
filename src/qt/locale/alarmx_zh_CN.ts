@@ -2741,8 +2741,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Bitcoin Core 的开发者</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>达世币核心开发人员</translation>
     </message>
     <message>

@@ -1221,7 +1221,7 @@ Indirizzo: %4
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/alarmx/</source>
-        <translation>La tua lingua manca o la traduzione è incompleta? Contribuisci alla traduzione qui: 
+        <translation>La tua lingua manca o la traduzione è incompleta? Contribuisci alla traduzione qui:
 https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
@@ -2590,8 +2590,7 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Gli sviluppatori di Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Gli sviluppatori di Alarmx Core</translation>
     </message>
     <message>

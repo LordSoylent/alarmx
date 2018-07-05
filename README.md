@@ -3,7 +3,7 @@ Alarmx Core staging tree 0.12.2
 
 `master:` [![Build Status](https://travis-ci.org/alarmxcore/alarmx.svg?branch=master)](https://travis-ci.org/alarmxcore/alarmx) `develop:` [![Build Status](https://travis-ci.org/alarmxcore/alarmx.svg?branch=develop)](https://travis-ci.org/alarmxcore/alarmx/branches)
 
-https://www.alarmx.org
+https://www.alarmx.io
 
 
 What is Alarmx?
@@ -16,7 +16,7 @@ are carried out collectively by the network. Alarmx Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Alarmx Core software, see https://www.alarmx.org/get-alarmx/.
+the Alarmx Core software, see https://www.alarmx.io/get-alarmx/.
 
 
 License

@@ -3196,8 +3196,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Bitcoin Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Alarmx Core kehittäjät</translation>
     </message>
 </context>

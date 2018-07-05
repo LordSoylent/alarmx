@@ -4138,10 +4138,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
-        <translation>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</translation>
+        <source>The Alarmx Core developers</source>
+        <translation>The Alarmx Core developers</translation>
     </message>
 </context>
 <context>

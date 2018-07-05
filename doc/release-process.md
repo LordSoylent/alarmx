@@ -182,13 +182,13 @@ rm SHA256SUMS
 (the digest algorithm is forced to sha256 to avoid confusion of the `Hash:` header that GPG adds with the SHA256 used for the files)
 Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spurious/nonsensical entry.
 
-- Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the alarmx.org server
+- Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the alarmx.io server
 
-- Update alarmx.org
+- Update alarmx.io
 
 - Announce the release:
 
-  - Release on Alarmx forum: https://www.alarmx.org/forum/topic/official-announcements.54/
+  - Release on Alarmx forum: https://www.alarmx.io/forum/topic/official-announcements.54/
 
   - Alarmx-development mailing list
 
@@ -196,7 +196,7 @@ Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spur
 
   - Optionally reddit /r/Alarmxpay, ... but this will usually sort out itself
 
-- Notify flare so that he can start building [the PPAs](https://launchpad.net/~alarmx.org/+archive/ubuntu/alarmx)
+- Notify flare so that he can start building [the PPAs](https://launchpad.net/~alarmx.io/+archive/ubuntu/alarmx)
 
 - Add release notes for the new version to the directory `doc/release-notes` in git master
 

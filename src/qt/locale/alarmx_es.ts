@@ -2748,8 +2748,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Los desarrolladores de Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Los desarrolladores del Alarmx Core</translation>
     </message>
     <message>

@@ -1,7 +1,7 @@
 Alarmx Core 0.12.1
 =====================
 
-This is the official reference wallet for Alarmx digital currency and comprises the backbone of the Alarmx peer-to-peer network. You can [download Alarmx Core](https://www.alarmx.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Alarmx digital currency and comprises the backbone of the Alarmx peer-to-peer network. You can [download Alarmx Core](https://www.alarmx.io/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------

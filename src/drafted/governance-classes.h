@@ -118,7 +118,7 @@ private:
     int nLevel;
     std::string strCategory;
 
-    // Current OBJECT STATUS (see http://govman.alarmx.org/index.php/Documentation_:_Status_Field)
+    // Current OBJECT STATUS (see http://govman.alarmx.io/index.php/Documentation_:_Status_Field)
     int nStatusID;
     std::string strStatusMessage;
 

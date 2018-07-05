@@ -51,7 +51,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Alarmx"
-#define QAPP_ORG_DOMAIN "alarmx.org"
+#define QAPP_ORG_DOMAIN "alarmx.io"
 #define QAPP_APP_NAME_DEFAULT "Alarmx-Qt"
 #define QAPP_APP_NAME_TESTNET "Alarmx-Qt-testnet"
 

@@ -2910,7 +2910,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Die Transaktion wurde abgelehnt! 
+        <translation>Die Transaktion wurde abgelehnt!
 Dies kann passieren, wenn einige Alarmx aus ihrer Wallet bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie ihrer wallet.dat nutzten und die Alarmx dort ausgegeben haben. Diese Ausgaben sind in diesem Fall in der derzeit aktiven Wallet nicht vermerkt.</translation>
     </message>
     <message>
@@ -3194,8 +3194,7 @@ Dies kann passieren, wenn einige Alarmx aus ihrer Wallet bereits ausgegeben wurd
         <translation>Die "Bitcoin Core"-Entwickler</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Die "Alarmx Core"-Entwickler</translation>
     </message>
 </context>

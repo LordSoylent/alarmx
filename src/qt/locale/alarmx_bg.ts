@@ -3191,8 +3191,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Водещи Bitcoin разработчици</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Водещи Alarmx разработчици</translation>
     </message>
 </context>

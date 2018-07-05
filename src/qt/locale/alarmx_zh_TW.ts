@@ -3167,8 +3167,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>位元幣核心開發人員</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>達世幣核心開發人員</translation>
     </message>
 </context>

@@ -2964,8 +2964,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Vývojári Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers</source>
+        <source>The Alarmx Core developers</source>
         <translation>Vývojári Alarmx Core</translation>
     </message>
 </context>
