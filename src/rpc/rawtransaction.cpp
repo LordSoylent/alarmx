@@ -497,7 +497,7 @@ UniValue decoderawtransaction(const UniValue& params, bool fHelp)
             "         \"reqSigs\" : n,            (numeric) The required sigs\n"
             "         \"type\" : \"pubkeyhash\",  (string) The type, eg 'pubkeyhash'\n"
             "         \"addresses\" : [           (json array of string)\n"
-            "           \"XwnLY9Tf7Zsef8gMGL2fhWA9ZmMjt4KPwg\"   (string) Alarmx address\n"
+            "           \"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\"   (string) Alarmx address\n"
             "           ,...\n"
             "         ]\n"
             "       }\n"
