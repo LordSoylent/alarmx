@@ -1057,11 +1057,11 @@ UniValue sendmany(const UniValue& params, bool fHelp)
             "                                    the number of addresses.\n"
             "\nExamples:\n"
             "\nSend two amounts to two different addresses:\n"
-            + HelpExampleCli("sendmany", "\"tabby\" \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"XuQQkwA4FYkq2XERzMY2CiAZhJTEDAbtcg\\\":0.02}\"") +
+            + HelpExampleCli("sendmany", "\"tabby\" \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"AQDE8ps7toGkmNknQ86cYzXkwqpxLzrAe9\\\":0.02}\"") +
             "\nSend two amounts to two different addresses setting the confirmation and comment:\n"
-            + HelpExampleCli("sendmany", "\"tabby\" \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"XuQQkwA4FYkq2XERzMY2CiAZhJTEDAbtcg\\\":0.02}\" 6 false \"testing\"") +
+            + HelpExampleCli("sendmany", "\"tabby\" \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"AQDE8ps7toGkmNknQ86cYzXkwqpxLzrAe9\\\":0.02}\" 6 false \"testing\"") +
             "\nAs a json rpc call\n"
-            + HelpExampleRpc("sendmany", "\"tabby\", \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"XuQQkwA4FYkq2XERzMY2CiAZhJTEDAbtcg\\\":0.02}\", 6, false, \"testing\"")
+            + HelpExampleRpc("sendmany", "\"tabby\", \"{\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\":0.01,\\\"AQDE8ps7toGkmNknQ86cYzXkwqpxLzrAe9\\\":0.02}\", 6, false, \"testing\"")
         );
 
     LOCK2(cs_main, pwalletMain->cs_wallet);
@@ -2571,8 +2571,8 @@ UniValue listunspent(const UniValue& params, bool fHelp)
 
             "\nExamples\n"
             + HelpExampleCli("listunspent", "")
-            + HelpExampleCli("listunspent", "6 9999999 \"[\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\",\\\"XuQQkwA4FYkq2XERzMY2CiAZhJTEDAbtcg\\\"]\"")
-            + HelpExampleRpc("listunspent", "6, 9999999 \"[\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\",\\\"XuQQkwA4FYkq2XERzMY2CiAZhJTEDAbtcg\\\"]\"")
+            + HelpExampleCli("listunspent", "6 9999999 \"[\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\",\\\"AQDE8ps7toGkmNknQ86cYzXkwqpxLzrAe9\\\"]\"")
+            + HelpExampleRpc("listunspent", "6, 9999999 \"[\\\"AT2wMEpLDjf3wkACg97fGyEK9qqmCMiwTJ\\\",\\\"AQDE8ps7toGkmNknQ86cYzXkwqpxLzrAe9\\\"]\"")
         );
 
     RPCTypeCheck(params, boost::assign::list_of(UniValue::VNUM)(UniValue::VNUM)(UniValue::VARR));
