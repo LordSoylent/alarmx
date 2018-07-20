@@ -75,8 +75,8 @@ public:
         strNetworkID = "main";
         consensus.nSubsidyHalvingInterval = 210240; // Note: actual number of blocks per calendar year with DGW v3 is ~200700 (for example 449750 - 249050)
         consensus.nMasternodePaymentsStartBlock = 1000; // not true, but it's ok as long as it's less then nMasternodePaymentsIncreaseBlock
-        consensus.nMasternodePaymentsIncreaseBlock = 34560; // actual historical value
-        consensus.nMasternodePaymentsIncreasePeriod = 576*30; // 17280 - not in use
+        consensus.nMasternodePaymentsIncreaseBlock = 17280; // actual historical value
+        consensus.nMasternodePaymentsIncreasePeriod = 576*30; // 17280
         consensus.nInstantSendKeepLock = 24;
         consensus.nBudgetPaymentsStartBlock = 328008; // actual historical value
         consensus.nBudgetPaymentsCycleBlocks = 16616; // ~(60*24*30)/2.6, actual number of blocks per month is 200700 / 12 = 16725
@@ -148,6 +148,7 @@ public:
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed2.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed3.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed4.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("chainexplorer.site", "dnsseed.chainexplorer.site"));
 
         // Alarmx addresses start with 'A'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
