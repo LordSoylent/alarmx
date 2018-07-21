@@ -83,21 +83,17 @@ OptionsDialog::OptionsDialog(QWidget *parent, bool enableWallet) :
     }
 
     /* Display elements init */
-    
+
     /* Number of displayed decimal digits selector */
     QString digits;
     for(int index = 2; index <=8; index++){
         digits.setNum(index);
         ui->digits->addItem(digits, digits);
     }
-    
+
     /* Theme selector */
     ui->theme->addItem(QString("ALRMX-light"), QVariant("light"));
-    ui->theme->addItem(QString("ALRMX-light-hires"), QVariant("light-hires"));
-    ui->theme->addItem(QString("ALRMX-blue"), QVariant("drkblue"));
-    ui->theme->addItem(QString("ALRMX-Crownium"), QVariant("crownium"));
-    ui->theme->addItem(QString("ALRMX-traditional"), QVariant("trad"));
-    
+
     /* Language selector */
     QDir translations(":translations");
     ui->lang->addItem(QString("(") + tr("default") + QString(")"), QVariant(""));
