@@ -148,6 +148,7 @@ public:
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed2.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed3.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed4.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed5.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("chainexplorer.site", "dnsseed.chainexplorer.site"));
 
         // Alarmx addresses start with 'A'

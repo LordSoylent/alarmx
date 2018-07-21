@@ -1,8 +1,5 @@
 Alarmx Core staging tree 0.12.2
 ===============================
-
-`master:` [![Build Status](https://travis-ci.org/alarmxcore/alarmx.svg?branch=master)](https://travis-ci.org/alarmxcore/alarmx) `develop:` [![Build Status](https://travis-ci.org/alarmxcore/alarmx.svg?branch=develop)](https://travis-ci.org/alarmxcore/alarmx/branches)
-
 https://www.alarmx.io
 
 
