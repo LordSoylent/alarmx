@@ -42,7 +42,7 @@ QT_TRANSLATE_NOOP("alarmx-core", ""
 "notation for IPv6. This option can be specified multiple times (default: "
 "bind to all interfaces)"),
 QT_TRANSLATE_NOOP("alarmx-core", ""
-"Cannot obtain a lock on data directory %s. Alarmx Core is probably already "
+"Cannot obtain a lock on data directory %s. AlarmX Core is probably already "
 "running."),
 QT_TRANSLATE_NOOP("alarmx-core", ""
 "Create new files with system default permissions, instead of umask 077 (only "
@@ -158,7 +158,7 @@ QT_TRANSLATE_NOOP("alarmx-core", ""
 "Output debugging information (default: %u, supplying <category> is optional)"),
 QT_TRANSLATE_NOOP("alarmx-core", ""
 "Please check that your computer's date and time are correct! If your clock "
-"is wrong Alarmx Core will not work properly."),
+"is wrong AlarmX Core will not work properly."),
 QT_TRANSLATE_NOOP("alarmx-core", ""
 "PrivateSend uses exact denominated amounts to send funds, you might simply "
 "need to anonymize some more coins."),
@@ -221,7 +221,7 @@ QT_TRANSLATE_NOOP("alarmx-core", ""
 "Tries to keep outbound traffic under the given target (in MiB per 24h), 0 = "
 "no limit (default: %d)"),
 QT_TRANSLATE_NOOP("alarmx-core", ""
-"Unable to bind to %s on this computer. Alarmx Core is probably already running."),
+"Unable to bind to %s on this computer. AlarmX Core is probably already running."),
 QT_TRANSLATE_NOOP("alarmx-core", ""
 "Unable to locate enough PrivateSend denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("alarmx-core", ""
@@ -333,7 +333,7 @@ QT_TRANSLATE_NOOP("alarmx-core", "Connect to KeePassHttp on port <port> (default
 QT_TRANSLATE_NOOP("alarmx-core", "Connect to a node to retrieve peer addresses, and disconnect"),
 QT_TRANSLATE_NOOP("alarmx-core", "Connection options:"),
 QT_TRANSLATE_NOOP("alarmx-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
-QT_TRANSLATE_NOOP("alarmx-core", "Copyright (C) 2014-%i The Alarmx Core Developers"),
+QT_TRANSLATE_NOOP("alarmx-core", "Copyright (C) 2014-%i The AlarmX Core Developers"),
 QT_TRANSLATE_NOOP("alarmx-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("alarmx-core", "Could not parse masternode.conf"),
 QT_TRANSLATE_NOOP("alarmx-core", "Debugging/Testing options:"),
@@ -358,7 +358,7 @@ QT_TRANSLATE_NOOP("alarmx-core", "Error loading %s: You can't disable HD on a al
 QT_TRANSLATE_NOOP("alarmx-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("alarmx-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("alarmx-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("alarmx-core", "Error loading wallet.dat: Wallet requires newer version of Alarmx Core"),
+QT_TRANSLATE_NOOP("alarmx-core", "Error loading wallet.dat: Wallet requires newer version of AlarmX Core"),
 QT_TRANSLATE_NOOP("alarmx-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("alarmx-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("alarmx-core", "Error"),
@@ -385,7 +385,7 @@ QT_TRANSLATE_NOOP("alarmx-core", "Incompatible mode."),
 QT_TRANSLATE_NOOP("alarmx-core", "Incompatible version."),
 QT_TRANSLATE_NOOP("alarmx-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("alarmx-core", "Information"),
-QT_TRANSLATE_NOOP("alarmx-core", "Initialization sanity check failed. Alarmx Core is shutting down."),
+QT_TRANSLATE_NOOP("alarmx-core", "Initialization sanity check failed. AlarmX Core is shutting down."),
 QT_TRANSLATE_NOOP("alarmx-core", "Input is not valid."),
 QT_TRANSLATE_NOOP("alarmx-core", "InstantSend options:"),
 QT_TRANSLATE_NOOP("alarmx-core", "Insufficient funds."),
@@ -537,7 +537,7 @@ QT_TRANSLATE_NOOP("alarmx-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("alarmx-core", "Very low number of keys left: %d"),
 QT_TRANSLATE_NOOP("alarmx-core", "Wallet %s resides outside data directory %s"),
 QT_TRANSLATE_NOOP("alarmx-core", "Wallet is locked."),
-QT_TRANSLATE_NOOP("alarmx-core", "Wallet needed to be rewritten: restart Alarmx Core to complete"),
+QT_TRANSLATE_NOOP("alarmx-core", "Wallet needed to be rewritten: restart AlarmX Core to complete"),
 QT_TRANSLATE_NOOP("alarmx-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("alarmx-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("alarmx-core", "Warning"),

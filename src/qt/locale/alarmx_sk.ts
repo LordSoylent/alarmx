@@ -238,8 +238,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -298,12 +298,12 @@
         <translation>Ukončiť program</translation>
     </message>
     <message>
-        <source>&amp;About Alarmx Core</source>
-        <translation>&amp;O Alarmx Core</translation>
+        <source>&amp;About AlarmX Core</source>
+        <translation>&amp;O AlarmX Core</translation>
     </message>
     <message>
-        <source>Show information about Alarmx Core</source>
-        <translation>Zobraziť informácie o Alarmx Core</translation>
+        <source>Show information about AlarmX Core</source>
+        <translation>Zobraziť informácie o AlarmX Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -318,8 +318,8 @@
         <translation>&amp;Možnosti...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx Core</source>
-        <translation>Upraviť možnosti konfigurácie Alarmx Core</translation>
+        <source>Modify configuration options for AlarmX Core</source>
+        <translation>Upraviť možnosti konfigurácie AlarmX Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -502,8 +502,8 @@
         <translation>Lišta záložiek</translation>
     </message>
     <message>
-        <source>Alarmx Core client</source>
-        <translation>Alarmx Core klient</translation>
+        <source>AlarmX Core client</source>
+        <translation>AlarmX Core klient</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Alarmx network</source>
@@ -966,8 +966,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -978,8 +978,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Alarmx Core</source>
-        <translation>O Alarmx Core</translation>
+        <source>About AlarmX Core</source>
+        <translation>O AlarmX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1033,16 +1033,16 @@
         <translation>Vitajte</translation>
     </message>
     <message>
-        <source>Welcome to Alarmx Core.</source>
-        <translation>Vitajte v Alarmx Core.</translation>
+        <source>Welcome to AlarmX Core.</source>
+        <translation>Vitajte v AlarmX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</source>
-        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude Alarmx Core ukladať svoje dáta.</translation>
+        <source>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</source>
+        <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude AlarmX Core ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Alarmx Core stiahne a uloží kópiu reťazca blokov Alarmx. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
+        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core stiahne a uloží kópiu reťazca blokov Alarmx. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1053,8 +1053,8 @@
         <translation>Použiť vlastný dátový adresár:</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1233,11 +1233,11 @@
         <translation>Peňaženka</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx Core after logging in to the system.</source>
-        <translation>Automaticky spustiť Alarmx Core po prihlásení do systému.</translation>
+        <source>Automatically start AlarmX Core after logging in to the system.</source>
+        <translation>Automaticky spustiť AlarmX Core po prihlásení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx Core on system login</source>
+        <source>&amp;Start AlarmX Core on system login</source>
         <translation>&amp;Spusť Alarmx po prihlásení do systému</translation>
     </message>
     <message>
@@ -1802,8 +1802,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -2802,8 +2802,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Alarmx Core is shutting down...</source>
-        <translation>Alarmx core sa vypína...</translation>
+        <source>AlarmX Core is shutting down...</source>
+        <translation>AlarmX Core sa vypína...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2952,8 +2952,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>[testovacia sieť]</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2964,8 +2964,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Vývojári Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Alarmx Core developers</source>
-        <translation>Vývojári Alarmx Core</translation>
+        <source>The AlarmX Core developers</source>
+        <translation>Vývojári AlarmX Core</translation>
     </message>
 </context>
 <context>
@@ -3534,8 +3534,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Spojiť s danou adresou a vždy na nej počúvať. Použite zápis [host]:port pre IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</source>
-        <translation>Nedá sa zamknúť dátový adresár %s. Alarmx Core už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</source>
+        <translation>Nedá sa zamknúť dátový adresár %s. AlarmX Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3574,8 +3574,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Toto je predbežná testovacia zostava - používate na vlastné riziko - nepoužívajte na ťaženie alebo obchodné aplikácie</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Alarmx Core is probably already running.</source>
-        <translation>Nedá sa viazať ku %s na tomto počítači. Alarmx Core už pravdepodobne beží.</translation>
+        <source>Unable to bind to %s on this computer. AlarmX Core is probably already running.</source>
+        <translation>Nedá sa viazať ku %s na tomto počítači. AlarmX Core už pravdepodobne beží.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3834,7 +3834,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Autorské práva (C) 2009-%i Vývojári Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Alarmx Core Developers</source>
+        <source>Copyright (C) 2014-%i The AlarmX Core Developers</source>
         <translation>Autorské práva (C) 2014-%i Vývojári jadra Alarmx</translation>
     </message>
     <message>
@@ -3846,8 +3846,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Chyba pripojenia k Masternode.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Alarmx Core</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Alarmx Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlarmX Core</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu AlarmX Core</translation>
     </message>
     <message>
         <source>Found enough users, signing ( waiting %s )</source>
@@ -3890,8 +3890,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Informácie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Alarmx Core is shutting down.</source>
-        <translation>Inicializácia kontroly zdravia zlyhala. Alarmx Core sa vypína.</translation>
+        <source>Initialization sanity check failed. AlarmX Core is shutting down.</source>
+        <translation>Inicializácia kontroly zdravia zlyhala. AlarmX Core sa vypína.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4118,8 +4118,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Použiť testovaciu sieť</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Alarmx Core to complete</source>
-        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte Alarmx Core</translation>
+        <source>Wallet needed to be rewritten: restart AlarmX Core to complete</source>
+        <translation>Bolo potrebné prepísať peňaženku: k dokončeniu reštartujte AlarmX Core</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4214,8 +4214,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Celkové maximum poplatkov (v %s) pre použitie jednej transakcie peňaženky. Príliš malá hodnota môže prerušiť veľké transakcie (predvolené: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Alarmx Core will not work properly.</source>
-        <translation>Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, Alarmx Core nebude pracovať správne.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AlarmX Core will not work properly.</source>
+        <translation>Skontrolujte si prosím či máte správny čas a dátum na Vašom počítači. Ak je Vaše nastavenie zlé, AlarmX Core nebude pracovať správne.</translation>
     </message>
     <message>
         <source>PrivateSend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>

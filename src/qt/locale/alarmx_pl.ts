@@ -188,8 +188,8 @@
         <translation>Portfel zaszyfrowany</translation>
     </message>
     <message>
-        <source>Alarmx Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
-        <translation>Alarmx Core zostanie zamknięty, aby ukończyć szyfrowanie. Pamiętaj, szyfrowanie portfela nie chroni przed kradzieżą Alarmxów, jeśli twój komputer jest zainfekowany przez malware.</translation>
+        <source>AlarmX Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <translation>AlarmX Core zostanie zamknięty, aby ukończyć szyfrowanie. Pamiętaj, szyfrowanie portfela nie chroni przed kradzieżą Alarmxów, jeśli twój komputer jest zainfekowany przez malware.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,12 +242,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>A fatal error occurred. Alarmx Core can no longer continue safely and will quit.</source>
-        <translation>Wystąpił błąd krytyczny. Alarmx Core nie może bezpiecznie kontynuować i zostanie zamknięty.</translation>
+        <source>A fatal error occurred. AlarmX Core can no longer continue safely and will quit.</source>
+        <translation>Wystąpił błąd krytyczny. AlarmX Core nie może bezpiecznie kontynuować i zostanie zamknięty.</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -306,12 +306,12 @@
         <translation>Zamknij program</translation>
     </message>
     <message>
-        <source>&amp;About Alarmx Core</source>
-        <translation>&amp;O Alarmx Core</translation>
+        <source>&amp;About AlarmX Core</source>
+        <translation>&amp;O AlarmX Core</translation>
     </message>
     <message>
-        <source>Show information about Alarmx Core</source>
-        <translation>Pokaż informacje o Alarmx Core</translation>
+        <source>Show information about AlarmX Core</source>
+        <translation>Pokaż informacje o AlarmX Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -326,8 +326,8 @@
         <translation>&amp;Opcje...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx Core</source>
-        <translation>Zmień opcje konfiguracji Alarmx Core</translation>
+        <source>Modify configuration options for AlarmX Core</source>
+        <translation>Zmień opcje konfiguracji AlarmX Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -482,8 +482,8 @@
         <translation>&amp;Opcje konsoli</translation>
     </message>
     <message>
-        <source>Show the Alarmx Core help message to get a list with possible Alarmx Core command-line options</source>
-        <translation>Pokaż wiadomość pomocy Alarmx Core, aby otrzymać listę z dostępnymi opcjami wiersza poleceń.</translation>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX Core command-line options</source>
+        <translation>Pokaż wiadomość pomocy AlarmX Core, aby otrzymać listę z dostępnymi opcjami wiersza poleceń.</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -514,8 +514,8 @@
         <translation>Pasek zakładek</translation>
     </message>
     <message>
-        <source>Alarmx Core client</source>
-        <translation>Klient Alarmx Core</translation>
+        <source>AlarmX Core client</source>
+        <translation>Klient AlarmX Core</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Alarmx network</source>
@@ -982,8 +982,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -994,8 +994,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Alarmx Core</source>
-        <translation>Informacje o Alarmx Core</translation>
+        <source>About AlarmX Core</source>
+        <translation>Informacje o AlarmX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1053,16 +1053,16 @@
         <translation>Witaj</translation>
     </message>
     <message>
-        <source>Welcome to Alarmx Core.</source>
-        <translation>Witaj w Alarmx Core</translation>
+        <source>Welcome to AlarmX Core.</source>
+        <translation>Witaj w AlarmX Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</source>
-        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie Alarmx Core będzie przechowywał dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</source>
+        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie AlarmX Core będzie przechowywał dane.</translation>
     </message>
     <message>
-        <source>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Alarmx Core ściągnie i zapisze kopię łańcucha bloków-blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
+        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core ściągnie i zapisze kopię łańcucha bloków-blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1073,8 +1073,8 @@
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1321,12 +1321,12 @@
         <translation>Portfel</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx Core after logging in to the system.</source>
-        <translation>Automatycznie uruchom Alarmx Core po zalogowaniu do systemu.</translation>
+        <source>Automatically start AlarmX Core after logging in to the system.</source>
+        <translation>Automatycznie uruchom AlarmX Core po zalogowaniu do systemu.</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx Core on system login</source>
-        <translation>&amp;Uruchom Alarmx Core przy zalogowaniu do systemu</translation>
+        <source>&amp;Start AlarmX Core on system login</source>
+        <translation>&amp;Uruchom AlarmX Core przy zalogowaniu do systemu</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1369,8 +1369,8 @@
         <translation>Ta kwota działa jako próg po którego przekroczeniu PrivateSend zostaje wyłączony.</translation>
     </message>
     <message>
-        <source>Automatically open the Alarmx Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwórz port klienta Alarmx Core na ruterze. Opcja działa jedynie, jeżeli router obsługuje UPnP i funkcja UPnP jest włączona.</translation>
+        <source>Automatically open the AlarmX Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwórz port klienta AlarmX Core na ruterze. Opcja działa jedynie, jeżeli router obsługuje UPnP i funkcja UPnP jest włączona.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1393,8 +1393,8 @@
         <translation>Minimalizuje zamiast zakończyć działanie programu przy zamknięciu okna. Kiedy ta opcja jest włączona, program zakończy działanie po wybraniu Zamknij w menu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx Core.</source>
-        <translation>Tutaj można ustawić język interfejsu użytkownika. Ustawienie to zostanie uaktywnione po ponownym uruchomieniu Alarmx Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX Core.</source>
+        <translation>Tutaj można ustawić język interfejsu użytkownika. Ustawienie to zostanie uaktywnione po ponownym uruchomieniu AlarmX Core.</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -1499,7 +1499,7 @@
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/alarmx/</source>
-        <translation>Alarmx Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
+        <translation>AlarmX Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
 https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
@@ -1953,8 +1953,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1973,8 +1973,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Błąd wczytywania pliku konfiguracji masternoda: %1</translation>
     </message>
     <message>
-        <source>Alarmx Core didn't yet exit safely...</source>
-        <translation>Alarmx Core jeszcze nie został poprawnie zamknięty...</translation>
+        <source>AlarmX Core didn't yet exit safely...</source>
+        <translation>AlarmX Core jeszcze nie został poprawnie zamknięty...</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -2147,8 +2147,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Użycie pamięci</translation>
     </message>
     <message>
-        <source>Open the Alarmx Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otwórz plik dziennika debugowania Alarmx Core w bieżącym folderze danych. W przypadku dużych plików może to chwilę potrwać.</translation>
+        <source>Open the AlarmX Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otwórz plik dziennika debugowania AlarmX Core w bieżącym folderze danych. W przypadku dużych plików może to chwilę potrwać.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2363,8 +2363,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>&amp;Miejski</translation>
     </message>
     <message>
-        <source>Welcome to the Alarmx Core RPC console.</source>
-        <translation>Witaj w konsoli RPC Alarmx Core</translation>
+        <source>Welcome to the AlarmX Core RPC console.</source>
+        <translation>Witaj w konsoli RPC AlarmX Core</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -3009,8 +3009,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Alarmx Core is shutting down...</source>
-        <translation>Trwa zamykanie Alarmx Core</translation>
+        <source>AlarmX Core is shutting down...</source>
+        <translation>Trwa zamykanie AlarmX Core</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3163,8 +3163,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3175,8 +3175,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Deweloperzy Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Alarmx Core developers</source>
-        <translation>Deweloperzy Alarmx Core</translation>
+        <source>The AlarmX Core developers</source>
+        <translation>Deweloperzy AlarmX Core</translation>
     </message>
 </context>
 <context>
@@ -3773,7 +3773,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Związany z danym adresem oraz zawsze prowadzący na nim nasłuch.  Użyj [host]:oznaczenie dla IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</source>
         <translation>Nie można zablokować katalogu danych %s. Prawdopodobnie Alarmx jest już uruchomiony. </translation>
     </message>
     <message>
@@ -3813,7 +3813,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Ta wersja nie jest jeszcze gotowa na oficjalne wydanie - używaj jej na własne ryzyko - nie używaj tej wersji do kopania monet lub do świadczenia usług komercyjnych.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Alarmx Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. AlarmX Core is probably already running.</source>
         <translation>Niezdolny do związania z %s na tym komputerze. Prawdopodobnie Alarmx jest już uruchomiony. </translation>
     </message>
     <message>
@@ -4129,7 +4129,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Prawo autorskie (c) 2009-%i deweloperzy Bitcoin</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Alarmx Core Developers</source>
+        <source>Copyright (C) 2014-%i The AlarmX Core Developers</source>
         <translation>Prawa autorskie (C) 2014-%i deweloperzy Alarmx</translation>
     </message>
     <message>
@@ -4149,7 +4149,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Błąd podczas wczytywania %s: Niemożliwe jest zmienienie porfela HD w standarodowy porfel.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Alarmx Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlarmX Core</source>
         <translation>Błą wczytywania wallet.dat: Portfel wymaga nowszej wersji Alarmx</translation>
     </message>
     <message>
@@ -4209,8 +4209,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Informacja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Alarmx Core is shutting down.</source>
-        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie Alarmx Core</translation>
+        <source>Initialization sanity check failed. AlarmX Core is shutting down.</source>
+        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie AlarmX Core</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4445,8 +4445,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Użyj łańcucha testowego</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Alarmx Core to complete</source>
-        <translation>Portfel potrzebuje być przepisany: uruchom ponownie Alarmx Core aby zakończyć.</translation>
+        <source>Wallet needed to be rewritten: restart AlarmX Core to complete</source>
+        <translation>Portfel potrzebuje być przepisany: uruchom ponownie AlarmX Core aby zakończyć.</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4513,8 +4513,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Tworzenie kopii zapasowej nieudane, plik już istnieje! Taka sytuacja może wystąpić, jeżeli minęło mniej niż 60 od ostatniego zamknięcia portfela. Jeżeli Ci to nie przeszkadza, możesz kontynuować.</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Alarmx Core will not work properly.</source>
-        <translation>Sprawdź, czy data i godzina na Twoim komputerze są poprawne! Jeżeli zegar wskazuje niewłaściwy czas, Alarmx Core nie będzie działać poprawnie.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AlarmX Core will not work properly.</source>
+        <translation>Sprawdź, czy data i godzina na Twoim komputerze są poprawne! Jeżeli zegar wskazuje niewłaściwy czas, AlarmX Core nie będzie działać poprawnie.</translation>
     </message>
     <message>
         <source>%s - %d confirmations</source>

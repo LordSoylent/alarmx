@@ -19,13 +19,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Alarmx"
-            VALUE "FileDescription",    "Alarmx Core (GUI node for Alarmx)"
+            VALUE "FileDescription",    "AlarmX Core (GUI node for Alarmx)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "alarmx-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "alarmx-qt.exe"
-            VALUE "ProductName",        "Alarmx Core"
+            VALUE "ProductName",        "AlarmX Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

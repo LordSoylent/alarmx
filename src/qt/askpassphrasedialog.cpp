@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2015 The Bitcoin Core developers
 // Copyright (c) 2014-2017 The Dash Core developers
- // Copyright (c) 2018- The Alarmx Core developers
+ // Copyright (c) 2018- The AlarmX Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -123,7 +123,7 @@ void AskPassphraseDialog::accept()
                 {
                     QMessageBox::warning(this, tr("Wallet encrypted"),
                                          "<qt>" +
-                                         tr("Alarmx Core will close now to finish the encryption process. "
+                                         tr("AlarmX Core will close now to finish the encryption process. "
                                          "Remember that encrypting your wallet cannot fully protect "
                                          "your alarmxs from being stolen by malware infecting your computer.") +
                                          "<br><br><b>" +

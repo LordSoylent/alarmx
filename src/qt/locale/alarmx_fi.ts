@@ -188,8 +188,8 @@
         <translation>Lompakko salattu</translation>
     </message>
     <message>
-        <source>Alarmx Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
-        <translation>Alarmx Core sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää Alarmxiesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
+        <source>AlarmX Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <translation>AlarmX Core sulkeutuu nyt salauksen viimeistelyä varten. Muista että salaus pelkästään ei voi estää Alarmxiesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -242,12 +242,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>A fatal error occurred. Alarmx Core can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe tapahtunut. Alarmx Core ei voi enää toimia turvallisesti ja sulkeutuu.</translation>
+        <source>A fatal error occurred. AlarmX Core can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe tapahtunut. AlarmX Core ei voi enää toimia turvallisesti ja sulkeutuu.</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -306,12 +306,12 @@
         <translation>Sulje ohjelma</translation>
     </message>
     <message>
-        <source>&amp;About Alarmx Core</source>
-        <translation>Tietoja &amp;Alarmx Core:sta</translation>
+        <source>&amp;About AlarmX Core</source>
+        <translation>Tietoja &amp;AlarmX Core:sta</translation>
     </message>
     <message>
-        <source>Show information about Alarmx Core</source>
-        <translation>Näytä tietoja Alarmx Core:sta</translation>
+        <source>Show information about AlarmX Core</source>
+        <translation>Näytä tietoja AlarmX Core:sta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -326,8 +326,8 @@
         <translation>&amp;Asetukset...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx Core</source>
-        <translation>Muuta Alarmx Core asetuksia</translation>
+        <source>Modify configuration options for AlarmX Core</source>
+        <translation>Muuta AlarmX Core asetuksia</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -482,8 +482,8 @@
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Alarmx Core help message to get a list with possible Alarmx Core command-line options</source>
-        <translation>Näytä Alarmx Core ohjelista komentorivin valinnoista</translation>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX Core command-line options</source>
+        <translation>Näytä AlarmX Core ohjelista komentorivin valinnoista</translation>
     </message>
     <message>
         <source>&amp;PrivateSend information</source>
@@ -514,8 +514,8 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Alarmx Core client</source>
-        <translation>Alarmx Core asiakasohjelma</translation>
+        <source>AlarmX Core client</source>
+        <translation>AlarmX Core asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Alarmx network</source>
@@ -982,8 +982,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -994,8 +994,8 @@
         <translation>(%1-bittinen)</translation>
     </message>
     <message>
-        <source>About Alarmx Core</source>
-        <translation>Tietoja Alarmx Core:sta</translation>
+        <source>About AlarmX Core</source>
+        <translation>Tietoja AlarmX Core:sta</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1053,17 +1053,17 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Alarmx Core.</source>
-        <translation>Alarmx Core - Tervetuloa.</translation>
+        <source>Welcome to AlarmX Core.</source>
+        <translation>AlarmX Core - Tervetuloa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</source>
-        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne Alarmx Core tallettaa datansa.
+        <source>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</source>
+        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne AlarmX Core tallettaa datansa.
 Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä (Live os), ohjaa talletettava data eri levyasemalle turvalliseen paikkaan.</translation>
     </message>
     <message>
-        <source>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Alarmx Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
+        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1074,8 +1074,8 @@ Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä 
         <translation>Määritä oma datahakemisto:</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1326,12 +1326,12 @@ Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä 
         <translation>&amp;Lompakko</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx Core after logging in to the system.</source>
-        <translation>Käynnistä Alarmx Core automaattisesti kun järjestelmään kirjaudutaan.</translation>
+        <source>Automatically start AlarmX Core after logging in to the system.</source>
+        <translation>Käynnistä AlarmX Core automaattisesti kun järjestelmään kirjaudutaan.</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx Core on system login</source>
-        <translation>&amp;Käynnistä Alarmx Core järjestelmään kirjauduttaessa</translation>
+        <source>&amp;Start AlarmX Core on system login</source>
+        <translation>&amp;Käynnistä AlarmX Core järjestelmään kirjauduttaessa</translation>
     </message>
     <message>
         <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
@@ -1378,8 +1378,8 @@ Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä 
         <translation>Tämä määrä toimii rajana sekoituksen keskeytykselle kun PrivateSend sen saavuttaa.</translation>
     </message>
     <message>
-        <source>Automatically open the Alarmx Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa automaattisesti Alarmx Core asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the AlarmX Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa automaattisesti AlarmX Core asiakasohjelmalle portti reitittimeen. Tämä toimii vain jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1402,8 +1402,8 @@ Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä 
         <translation>Ikkunaa suljettaessa pienennä ohjelman ikkuna lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx Core.</source>
-        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun Alarmx Core asiakasohjelma käynnistetään uudelleen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX Core.</source>
+        <translation>Käyttöliittymän kieli asetetaan tässä, Asetus tulee voimaan kun AlarmX Core asiakasohjelma käynnistetään uudelleen.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items.&lt;br/&gt;%s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1970,8 +1970,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1990,8 +1990,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Virhe luettaessa masternoden asetustiedostoa: %1</translation>
     </message>
     <message>
-        <source>Alarmx Core didn't yet exit safely...</source>
-        <translation>Alarmx Core ei ole vielä sulkeutunut turvallisesti...</translation>
+        <source>AlarmX Core didn't yet exit safely...</source>
+        <translation>AlarmX Core ei ole vielä sulkeutunut turvallisesti...</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -2164,8 +2164,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Muistin käyttö</translation>
     </message>
     <message>
-        <source>Open the Alarmx Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Alarmx Core debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
+        <source>Open the AlarmX Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa AlarmX Core debug lokitiedosto nykyisestä datahakemistosta. Tämä saattaa kestää muutaman sekunnin isoilla tiedostoilla.</translation>
     </message>
     <message>
         <source>&amp;Console</source>
@@ -2384,8 +2384,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>&amp;Poista kieltolistalta</translation>
     </message>
     <message>
-        <source>Welcome to the Alarmx Core RPC console.</source>
-        <translation>Tervetuloa Alarmx Core RPC konsoliin.</translation>
+        <source>Welcome to the AlarmX Core RPC console.</source>
+        <translation>Tervetuloa AlarmX Core RPC konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -3030,8 +3030,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Alarmx Core is shutting down...</source>
-        <translation>Alarmx Core sulkeutuu...</translation>
+        <source>AlarmX Core is shutting down...</source>
+        <translation>AlarmX Core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3184,8 +3184,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>[testiverkko]</translation>
     </message>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3196,8 +3196,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Bitcoin Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Alarmx Core developers</source>
-        <translation>Alarmx Core kehittäjät</translation>
+        <source>The AlarmX Core developers</source>
+        <translation>AlarmX Core kehittäjät</translation>
     </message>
 </context>
 <context>
@@ -3794,8 +3794,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Kytkeydy annettuun osoitteeseen ja pidä linja aina auki. Käytä [host]:port merkintätapaa IPv6:lle.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</source>
-        <translation>Ei voida lukita datahakemistoa %s. Alarmx Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</source>
+        <translation>Ei voida lukita datahakemistoa %s. AlarmX Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -3834,8 +3834,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla vastuulla - Älä käytä louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Alarmx Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Alarmx Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. AlarmX Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. AlarmX Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4150,8 +4150,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Copyright (C) 2009-%i Bitcoin Core Kehittäjät</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Alarmx Core Developers</source>
-        <translation>Copyright (C) 2014-%i Alarmx Core Kehittäjät</translation>
+        <source>Copyright (C) 2014-%i The AlarmX Core Developers</source>
+        <translation>Copyright (C) 2014-%i AlarmX Core Kehittäjät</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4170,8 +4170,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Virhe latauksessa %s: Et voi poistaa käytöstä HD:tä jo olemassa olevassa HD lompakossa</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Alarmx Core</source>
-        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version Alarmx Core:sta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlarmX Core</source>
+        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version AlarmX Core:sta</translation>
     </message>
     <message>
         <source>Failed to load fulfilled requests cache from</source>
@@ -4230,8 +4230,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Tietoja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Alarmx Core is shutting down.</source>
-        <translation>Ohjelman alkuperäisyyden tarkistus epäonnistui. Alarmx Core sulkeutuu.</translation>
+        <source>Initialization sanity check failed. AlarmX Core is shutting down.</source>
+        <translation>Ohjelman alkuperäisyyden tarkistus epäonnistui. AlarmX Core sulkeutuu.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4486,8 +4486,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Käyttäjä toimijan kommentti (%s) sisältää ei suositeltuja merkkejä.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Alarmx Core to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Alarmx Core uudestaan viimeistelyä varten</translation>
+        <source>Wallet needed to be rewritten: restart AlarmX Core to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä AlarmX Core uudestaan viimeistelyä varten</translation>
     </message>
     <message>
         <source>Will retry...</source>
@@ -4618,7 +4618,7 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Yksittäisen siirtotapahtuman maksimi siirtomaksu (%s), jos tämä asetetaan liian matalaksi, se voi keskeyttää isot siirtotapahtumat (oletus: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Alarmx Core will not work properly.</source>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong AlarmX Core will not work properly.</source>
         <translation>Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! Alarmx ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>

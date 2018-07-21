@@ -237,8 +237,8 @@
     </message>
     <message>
         <location line="-57"/>
-        <source>Alarmx Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
-        <translation>Alarmx Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</translation>
+        <source>AlarmX Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <translation>AlarmX Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -310,14 +310,14 @@
     <name>BitcoinGUI</name>
     <message>
         <location filename="../alarmx.cpp" line="+542"/>
-        <source>A fatal error occurred. Alarmx Core can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Alarmx Core can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. AlarmX Core can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. AlarmX Core can no longer continue safely and will quit.</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="+130"/>
         <location line="+988"/>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <location line="-979"/>
@@ -391,13 +391,13 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Alarmx Core</source>
-        <translation>&amp;About Alarmx Core</translation>
+        <source>&amp;About AlarmX Core</source>
+        <translation>&amp;About AlarmX Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Alarmx Core</source>
-        <translation>Show information about Alarmx Core</translation>
+        <source>Show information about AlarmX Core</source>
+        <translation>Show information about AlarmX Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -416,8 +416,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Modify configuration options for Alarmx Core</source>
-        <translation>Modify configuration options for Alarmx Core</translation>
+        <source>Modify configuration options for AlarmX Core</source>
+        <translation>Modify configuration options for AlarmX Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -611,8 +611,8 @@
     </message>
     <message>
         <location line="+2"/>
-        <source>Show the Alarmx Core help message to get a list with possible Alarmx Core command-line options</source>
-        <translation>Show the Alarmx Core help message to get a list with possible Alarmx Core command-line options</translation>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX Core command-line options</source>
+        <translation>Show the AlarmX Core help message to get a list with possible AlarmX Core command-line options</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -651,8 +651,8 @@
     </message>
     <message>
         <location line="+168"/>
-        <source>Alarmx Core client</source>
-        <translation>Alarmx Core client</translation>
+        <source>AlarmX Core client</source>
+        <translation>AlarmX Core client</translation>
     </message>
     <message numerus="yes">
         <location line="+200"/>
@@ -1239,8 +1239,8 @@
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+37"/>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1255,8 +1255,8 @@
     </message>
     <message>
         <location line="+5"/>
-        <source>About Alarmx Core</source>
-        <translation>About Alarmx Core</translation>
+        <source>About AlarmX Core</source>
+        <translation>About AlarmX Core</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1328,18 +1328,18 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Alarmx Core.</source>
-        <translation>Welcome to Alarmx Core.</translation>
+        <source>Welcome to AlarmX Core.</source>
+        <translation>Welcome to AlarmX Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1353,8 +1353,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+88"/>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1675,13 +1675,13 @@
     </message>
     <message>
         <location line="-104"/>
-        <source>Automatically start Alarmx Core after logging in to the system.</source>
-        <translation>Automatically start Alarmx Core after logging in to the system.</translation>
+        <source>Automatically start AlarmX Core after logging in to the system.</source>
+        <translation>Automatically start AlarmX Core after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Alarmx Core on system login</source>
-        <translation>&amp;Start Alarmx Core on system login</translation>
+        <source>&amp;Start AlarmX Core on system login</source>
+        <translation>&amp;Start AlarmX Core on system login</translation>
     </message>
     <message>
         <location line="+123"/>
@@ -1740,8 +1740,8 @@
     </message>
     <message>
         <location line="+60"/>
-        <source>Automatically open the Alarmx Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Alarmx Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the AlarmX Core client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the AlarmX Core client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1770,8 +1770,8 @@
     </message>
     <message>
         <location line="+45"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx Core.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Alarmx Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX Core.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting AlarmX Core.</translation>
     </message>
     <message>
         <location line="+99"/>
@@ -2530,8 +2530,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <location line="+7"/>
         <location line="+15"/>
         <location line="+19"/>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <location line="-40"/>
@@ -2555,8 +2555,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+48"/>
-        <source>Alarmx Core didn&apos;t yet exit safely...</source>
-        <translation>Alarmx Core didn&apos;t yet exit safely...</translation>
+        <source>AlarmX Core didn&apos;t yet exit safely...</source>
+        <translation>AlarmX Core didn&apos;t yet exit safely...</translation>
     </message>
     <message>
         <location filename="../bitcoinunits.cpp" line="+233"/>
@@ -2821,8 +2821,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+48"/>
-        <source>Open the Alarmx Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Alarmx Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the AlarmX Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the AlarmX Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -3099,8 +3099,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+188"/>
-        <source>Welcome to the Alarmx Core RPC console.</source>
-        <translation>Welcome to the Alarmx Core RPC console.</translation>
+        <source>Welcome to the AlarmX Core RPC console.</source>
+        <translation>Welcome to the AlarmX Core RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3923,8 +3923,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+71"/>
-        <source>Alarmx Core is shutting down...</source>
-        <translation>Alarmx Core is shutting down...</translation>
+        <source>AlarmX Core is shutting down...</source>
+        <translation>AlarmX Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4123,8 +4123,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location filename="../splashscreen.cpp" line="+45"/>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core</translation>
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4138,8 +4138,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Alarmx Core developers</source>
-        <translation>The Alarmx Core developers</translation>
+        <source>The AlarmX Core developers</source>
+        <translation>The AlarmX Core developers</translation>
     </message>
 </context>
 <context>
@@ -4909,8 +4909,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -4959,8 +4959,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. Alarmx Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Alarmx Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. AlarmX Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. AlarmX Core is probably already running.</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -5354,8 +5354,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Alarmx Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Alarmx Core Developers</translation>
+        <source>Copyright (C) 2014-%i The AlarmX Core Developers</source>
+        <translation>Copyright (C) 2014-%i The AlarmX Core Developers</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -5379,8 +5379,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Alarmx Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Alarmx Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AlarmX Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of AlarmX Core</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -5454,8 +5454,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Alarmx Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Alarmx Core is shutting down.</translation>
+        <source>Initialization sanity check failed. AlarmX Core is shutting down.</source>
+        <translation>Initialization sanity check failed. AlarmX Core is shutting down.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5774,8 +5774,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Wallet needed to be rewritten: restart Alarmx Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Alarmx Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart AlarmX Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart AlarmX Core to complete</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5939,8 +5939,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Alarmx Core will not work properly.</source>
-        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong Alarmx Core will not work properly.</translation>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong AlarmX Core will not work properly.</source>
+        <translation>Please check that your computer&apos;s date and time are correct! If your clock is wrong AlarmX Core will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>

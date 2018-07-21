@@ -219,8 +219,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core
 </translation>
     </message>
     <message>
@@ -272,8 +272,8 @@
         <translation>Avsluta applikationen</translation>
     </message>
     <message>
-        <source>&amp;About Alarmx Core</source>
-        <translation>&amp;Om Alarmx Core</translation>
+        <source>&amp;About AlarmX Core</source>
+        <translation>&amp;Om AlarmX Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -412,8 +412,8 @@
         <translation>&amp;Kommandoradalternativ</translation>
     </message>
     <message>
-        <source>Show the Alarmx Core help message to get a list with possible Alarmx command-line options</source>
-        <translation>Visa Alarmx Core-hjälpmeddelandet för att få en lista med möjliga Alarmx-kommandoradalternativ</translation>
+        <source>Show the AlarmX Core help message to get a list with possible Alarmx command-line options</source>
+        <translation>Visa AlarmX Core-hjälpmeddelandet för att få en lista med möjliga Alarmx-kommandoradalternativ</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -883,8 +883,8 @@ Adress: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core
 </translation>
     </message>
     <message>
@@ -931,16 +931,16 @@ Adress: %4
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Alarmx Core.</source>
-        <translation>Välkommen till Alarmx Core.</translation>
+        <source>Welcome to AlarmX Core.</source>
+        <translation>Välkommen till AlarmX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Alarmx Core will store its data.</source>
-        <translation>Då detta är första gången programmet startas kan du välja var Alarmx Core ska lagra sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where AlarmX Core will store its data.</source>
+        <translation>Då detta är första gången programmet startas kan du välja var AlarmX Core ska lagra sin data.</translation>
     </message>
     <message>
-        <source>Alarmx Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Alarmx Core kommer att laddas ned och lagra en kopia av Alarmx:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
+        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core kommer att laddas ned och lagra en kopia av Alarmx:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1985,8 +1985,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Alarmx Core is shutting down...</source>
-        <translation>Alarmx Core stängs ned...</translation>
+        <source>AlarmX Core is shutting down...</source>
+        <translation>AlarmX Core stängs ned...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2127,8 +2127,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Alarmx Core</source>
-        <translation>Alarmx Core
+        <source>AlarmX Core</source>
+        <translation>AlarmX Core
 </translation>
     </message>
     <message>
@@ -2140,8 +2140,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Bitcoin Core-utvecklarna</translation>
     </message>
     <message>
-        <source>The Alarmx Core developers</source>
-        <translation>Alarmx Core-utvecklarna</translation>
+        <source>The AlarmX Core developers</source>
+        <translation>AlarmX Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2662,8 +2662,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Sammanbind till fastställd adress och avlyssna alltid den. Använd [host]:port-notation för IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Alarmx Core is probably already running.</source>
-        <translation>Kan inte erhålla ett lås på datakatalog %s. Alarmx Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. AlarmX Core is probably already running.</source>
+        <translation>Kan inte erhålla ett lås på datakatalog %s. AlarmX Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -2718,8 +2718,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Detta är en förhandsutgiven testkompilering - använd på egen risk - använd inte för utvinning eller handlarapplikationer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Alarmx Core is probably already running.</source>
-        <translation>Det går inte att binda till %s till denna dator. Alarmx Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. AlarmX Core is probably already running.</source>
+        <translation>Det går inte att binda till %s till denna dator. AlarmX Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
@@ -2942,8 +2942,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Alarmx Core is shutting down.</source>
-        <translation>Initialiseringstillståndkontroll misslyckades. Alarmx Core stängs ned.</translation>
+        <source>Initialization sanity check failed. AlarmX Core is shutting down.</source>
+        <translation>Initialiseringstillståndkontroll misslyckades. AlarmX Core stängs ned.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
