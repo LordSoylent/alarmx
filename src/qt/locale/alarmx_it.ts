@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono i tuoi indirizzi Alarmx per inviare i pagamenti. Controlla sempre l'ammontare e l'indirizzo destinatario prima di inviare i alarmx.</translation>
+        <source>These are your AlarmX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono i tuoi indirizzi AlarmX per inviare i pagamenti. Controlla sempre l'ammontare e l'indirizzo destinatario prima di inviare i alarmx.</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono i tuoi indirizzi di Alarmx per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo di ricezione per ogni operazione.</translation>
+        <source>These are your AlarmX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono i tuoi indirizzi di AlarmX per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo di ricezione per ogni operazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Portafoglio cifrato</translation>
     </message>
     <message>
-        <source>Alarmx will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
-        <translation>Alarmx adesso si chiuderá per finire il processo di crittografia. Ricorda che crittografare il tuo portafoglio non ti da una protezione totale se il tuo computer é infettato da malware</translation>
+        <source>AlarmX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <translation>AlarmX adesso si chiuderá per finire il processo di crittografia. Ricorda che crittografare il tuo portafoglio non ti da una protezione totale se il tuo computer é infettato da malware</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -255,8 +255,8 @@
         <translation>&amp;Invia</translation>
     </message>
     <message>
-        <source>Send coins to a Alarmx address</source>
-        <translation>Spedire alarmx ad un indirizzo Alarmx</translation>
+        <source>Send coins to a AlarmX address</source>
+        <translation>Spedire alarmx ad un indirizzo AlarmX</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Opzioni...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx</source>
-        <translation>Modifica le opzioni di configurazione di Alarmx</translation>
+        <source>Modify configuration options for AlarmX</source>
+        <translation>Modifica le opzioni di configurazione di AlarmX</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,16 +355,16 @@
         <translation>Firma il &amp;messaggio...</translation>
     </message>
     <message>
-        <source>Sign messages with your Alarmx addresses to prove you own them</source>
-        <translation>Firma i messaggi con il tuo indirizzo Alarmx per dimostrarne che li possiedi</translation>
+        <source>Sign messages with your AlarmX addresses to prove you own them</source>
+        <translation>Firma i messaggi con il tuo indirizzo AlarmX per dimostrarne che li possiedi</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verifica messaggio...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alarmx addresses</source>
-        <translation>Verificare i messaggi per assicurarsi che sono firmati con gli indirizzi specificati di Alarmx</translation>
+        <source>Verify messages to ensure they were signed with specified AlarmX addresses</source>
+        <translation>Verificare i messaggi per assicurarsi che sono firmati con gli indirizzi specificati di AlarmX</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -451,8 +451,8 @@
         <translation><numerusform>Processato %n blocco della cronologia transazioni.</numerusform><numerusform>Processati %n blocchi della cronologia transazioni.</numerusform></translation>
     </message>
     <message>
-        <source>Show the AlarmX Core help message to get a list with possible Alarmx command-line options</source>
-        <translation>Mostra il messaggio di aiuto di AlarmX Core per ottenere una lista con le possibili opzioni di linea di comando di Alarmx</translation>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX command-line options</source>
+        <translation>Mostra il messaggio di aiuto di AlarmX Core per ottenere una lista con le possibili opzioni di linea di comando di AlarmX</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -475,8 +475,8 @@
         <translation>Barra degli strumenti "Tabs"</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alarmx network</source>
-        <translation><numerusform>%n connessione attiva alla rete Alarmx</numerusform><numerusform>%n connessioni attive alla rete Alarmx</numerusform></translation>
+        <source>%n active connection(s) to AlarmX network</source>
+        <translation><numerusform>%n connessione attiva alla rete AlarmX</numerusform><numerusform>%n connessioni attive alla rete AlarmX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -865,16 +865,16 @@ Indirizzo: %4
         <translation>Configurazione Darksend</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
         <translation>Dark send è statto correttamente impostato su base (%1 e 2 round). Puoi cambiare questa impostazione in qualsiasi momento tu lo voglia dalla finestra di configurazione.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend è stata impostata correttamente a elevato (%1 e 8 turni). È possibile modificare in qualsiasi momento aprendo schermata di configurazione di Alarmx.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend è stata impostata correttamente a elevato (%1 e 8 turni). È possibile modificare in qualsiasi momento aprendo schermata di configurazione di AlarmX.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend è stato correttamente settato al massimo (%1 e 16 rounds). Puoi cambiarlo quando vuoi aprendo la finestra di configurazione di Alarmx</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend è stato correttamente settato al massimo (%1 e 16 rounds). Puoi cambiarlo quando vuoi aprendo la finestra di configurazione di AlarmX</translation>
     </message>
 </context>
 <context>
@@ -916,8 +916,8 @@ Indirizzo: %4
         <translation>Modifica indirizzo d'invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Alarmx address.</source>
-        <translation>L'indirizzo inserito "%1" non é un indirizzo Alarmx valido</translation>
+        <source>The entered address "%1" is not a valid AlarmX address.</source>
+        <translation>L'indirizzo inserito "%1" non é un indirizzo AlarmX valido</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1021,7 +1021,7 @@ Indirizzo: %4
         <translation>Essendo la prima volta nella quale il programma viene lanciato, puoi scegliere dove AlarmX Core memorizzerà i propri dati.</translation>
     </message>
     <message>
-        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>AlarmX Core will download and store a copy of the AlarmX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>AlarmX Core scaricherà e salverà una copia della blocco catena. Almeno %1GB di dati sarà immagazzinato in questa cartella e aumenterà col tempo. Anche il portafoglio sarà conservato in questa cartella.</translation>
     </message>
     <message>
@@ -1087,12 +1087,12 @@ Indirizzo: %4
         <translation>&amp;Principale</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx after logging in to the system.</source>
+        <source>Automatically start AlarmX after logging in to the system.</source>
         <translation>Esegui automaticamente AlarmX Core all'avvio del sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx on system login</source>
-        <translation>&amp;Esegui Alarmx al login di sistema</translation>
+        <source>&amp;Start AlarmX on system login</source>
+        <translation>&amp;Esegui AlarmX al login di sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1119,8 +1119,8 @@ Indirizzo: %4
         <translation>Tale importo si comporta come una soglia per spegnere Darksend una volta che è raggiunto.</translation>
     </message>
     <message>
-        <source>Amount of Alarmx to keep anonymized</source>
-        <translation>Quantitá di Alarmx da mantenere anonima.</translation>
+        <source>Amount of AlarmX to keep anonymized</source>
+        <translation>Quantitá di AlarmX da mantenere anonima.</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1135,8 +1135,8 @@ Indirizzo: %4
         <translation>Permetti connessioni in entrata</translation>
     </message>
     <message>
-        <source>Connect to the Alarmx network through a SOCKS5 proxy.</source>
-        <translation>Connetta a la rete Alarmx attraverso un SOCKS5 proxy</translation>
+        <source>Connect to the AlarmX network through a SOCKS5 proxy.</source>
+        <translation>Connetta a la rete AlarmX attraverso un SOCKS5 proxy</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1163,8 +1163,8 @@ Indirizzo: %4
         <translation>Rete</translation>
     </message>
     <message>
-        <source>Automatically open the Alarmx client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta utilizzata dal client Alarmx nel router. Funziona solo se il router supporta UPnP ed è attivato.</translation>
+        <source>Automatically open the AlarmX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta utilizzata dal client AlarmX nel router. Funziona solo se il router supporta UPnP ed è attivato.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1215,7 +1215,7 @@ Indirizzo: %4
         <translation>&amp;Lingua Interfaccia Utente:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX.</source>
         <translation>La lingua dell'interfaccia utente può essere impostata qui. Questo settaggio sarà attivo al riavvio del client.</translation>
     </message>
     <message>
@@ -1301,8 +1301,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Modulo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alarmx network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate potrebbero essere datate. Il portafoglio si sincronizza automaticamente con il Alarmx rete dopo che una connessione viene stabilizzata, ma questo processo non è stato ancora completato.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlarmX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate potrebbero essere datate. Il portafoglio si sincronizza automaticamente con il AlarmX rete dopo che una connessione viene stabilizzata, ma questo processo non è stato ancora completato.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1514,8 +1514,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Invalido indirizzo di pago %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Alarmx address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l'URI! La causa puó essere un indirizzo Alarmx non valido o parametri URI non corretti.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AlarmX address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l'URI! La causa puó essere un indirizzo AlarmX non valido o parametri URI non corretti.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1596,8 +1596,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Importo</translation>
     </message>
     <message>
-        <source>Enter a Alarmx address (e.g. %1)</source>
-        <translation>Inserire un indirizzo Alarmx (e.g. %1)</translation>
+        <source>Enter a AlarmX address (e.g. %1)</source>
+        <translation>Inserire un indirizzo AlarmX (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1682,7 +1682,7 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Numero di connessioni</translation>
     </message>
     <message>
-        <source>Open the Alarmx debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AlarmX debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Apri il file log di debug dall'attuale cartella dei dati. Può richiedere un paio di secondi per file di grossa dimensione.</translation>
     </message>
     <message>
@@ -1866,8 +1866,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Uscita:</translation>
     </message>
     <message>
-        <source>Welcome to the Alarmx RPC console.</source>
-        <translation>Benvenuto nella console RPC Alarmx</translation>
+        <source>Welcome to the AlarmX RPC console.</source>
+        <translation>Benvenuto nella console RPC AlarmX</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1921,8 +1921,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>R&amp;iusa un indirizzo di ricezione (non raccomandato)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Alarmx network.</source>
-        <translation>Messaggio opzionale da allegare alla richiesta di pagamento, che verrà visualizzato quando la richiesta verrà aperta. Nota: il messaggio non sarà inviato insieme al pagamento nel network Alarmx.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AlarmX network.</source>
+        <translation>Messaggio opzionale da allegare alla richiesta di pagamento, che verrà visualizzato quando la richiesta verrà aperta. Nota: il messaggio non sarà inviato insieme al pagamento nel network AlarmX.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2338,8 +2338,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Pagare solo la minima commissione di %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Alarmx address</source>
-        <translation>ATTENZIONE: Indirizzo Alarmx non valido</translation>
+        <source>Warning: Invalid AlarmX address</source>
+        <translation>ATTENZIONE: Indirizzo AlarmX non valido</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2361,8 +2361,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Paga &amp;a:</translation>
     </message>
     <message>
-        <source>The Alarmx address to send the payment to</source>
-        <translation>L'indirizzo Alarmx per inviare il pagamento a </translation>
+        <source>The AlarmX address to send the payment to</source>
+        <translation>L'indirizzo AlarmX per inviare il pagamento a </translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2401,8 +2401,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Messaggio:</translation>
     </message>
     <message>
-        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alarmx network.</source>
-        <translation>Un messaggio allegato con l'URI alarmx che verrà memorizzato nella transazione per il tuo referente. Nota: questo messaggio non verrà inviato attraverso il network Alarmx.</translation>
+        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AlarmX network.</source>
+        <translation>Un messaggio allegato con l'URI alarmx che verrà memorizzato nella transazione per il tuo referente. Nota: questo messaggio non verrà inviato attraverso il network AlarmX.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2451,8 +2451,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Puoi firmare messaggi con i tuoi indirizzi in modo da dimostrarne il possesso. Presta attenzione a non firmare dichiarazioni vaghe, attacchi di phishing potrebbero cercare di spingerti ad apporre la tua firma su di esse. Firma solo dichiarazioni completamente dettagliate e delle quali condividi in pieno il contenuto.</translation>
     </message>
     <message>
-        <source>The Alarmx address to sign the message with</source>
-        <translation>L'indirizzo Alarmx con cui firmare il messaggio</translation>
+        <source>The AlarmX address to sign the message with</source>
+        <translation>L'indirizzo AlarmX con cui firmare il messaggio</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2483,8 +2483,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Copia la firma corrente nella clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Alarmx address</source>
-        <translation>Firma il mssaggio per dimostrare il possesso di questo indirizzo Alarmx</translation>
+        <source>Sign the message to prove you own this AlarmX address</source>
+        <translation>Firma il mssaggio per dimostrare il possesso di questo indirizzo AlarmX</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2507,12 +2507,12 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Inserisci l'indirizzo del firmatario, il messaggio (assicurati di copiare esattamente anche i ritorni a capo, gli spazi, le tabulazioni, etc..) e la firma qui sotto, per verificare il messaggio. Presta attenzione a non vedere nella firma più di quanto non sia riportato nel messaggio stesso, per evitare di cadere vittima di attacchi di tipo man-in-the-middle.</translation>
     </message>
     <message>
-        <source>The Alarmx address the message was signed with</source>
-        <translation>L'indirizzo Alarmx con cui era firmato il messaggio</translation>
+        <source>The AlarmX address the message was signed with</source>
+        <translation>L'indirizzo AlarmX con cui era firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Alarmx address</source>
-        <translation>Verifica il messaggio per assicurarti sia stato firmato con l'indirizzo Alarmx specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified AlarmX address</source>
+        <translation>Verifica il messaggio per assicurarti sia stato firmato con l'indirizzo AlarmX specificato</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

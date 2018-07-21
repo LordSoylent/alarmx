@@ -62,12 +62,12 @@
         <translation>Adresa prijatia</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú Vaše Alarmx adresy pre posielanie platieb. Pred poslaním mincí vždy overte sumu a doručovaciu adresu.</translation>
+        <source>These are your AlarmX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú Vaše AlarmX adresy pre posielanie platieb. Pred poslaním mincí vždy overte sumu a doručovaciu adresu.</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú Vaše Alarmx adresy pre posielanie platieb. Pre každú transakciu sa doporučuje použiť novú doručovaciu adresu.</translation>
+        <source>These are your AlarmX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú Vaše AlarmX adresy pre posielanie platieb. Pre každú transakciu sa doporučuje použiť novú doručovaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -262,8 +262,8 @@
         <translation>&amp;Odoslať</translation>
     </message>
     <message>
-        <source>Send coins to a Alarmx address</source>
-        <translation>Poslať mince na Alarmx adresu</translation>
+        <source>Send coins to a AlarmX address</source>
+        <translation>Poslať mince na AlarmX adresu</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and alarmx: URIs)</source>
-        <translation>Vyžiadať platby (vygeneruje QR kódy a Alarmx: URI)</translation>
+        <translation>Vyžiadať platby (vygeneruje QR kódy a AlarmX: URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -370,16 +370,16 @@
         <translation>Podpísať &amp;správu...</translation>
     </message>
     <message>
-        <source>Sign messages with your Alarmx addresses to prove you own them</source>
-        <translation>Podpísať správy s Vašimi Alarmx adresami ako dôkaz že ich vlastníte</translation>
+        <source>Sign messages with your AlarmX addresses to prove you own them</source>
+        <translation>Podpísať správy s Vašimi AlarmX adresami ako dôkaz že ich vlastníte</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>Overiť správu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alarmx addresses</source>
-        <translation>Overiť správy pre uistenie, že boli podpísané zadanými Alarmx adresami</translation>
+        <source>Verify messages to ensure they were signed with specified AlarmX addresses</source>
+        <translation>Overiť správy pre uistenie, že boli podpísané zadanými AlarmX adresami</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -506,8 +506,8 @@
         <translation>AlarmX Core klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alarmx network</source>
-        <translation><numerusform>%n aktívne spojenie so sieťou Alarmx</numerusform><numerusform>%n aktívne spojenia so sieťou Alarmx</numerusform><numerusform>%n aktívnych spojení so sieťou Alarmx</numerusform></translation>
+        <source>%n active connection(s) to AlarmX network</source>
+        <translation><numerusform>%n aktívne spojenie so sieťou AlarmX</numerusform><numerusform>%n aktívne spojenia so sieťou AlarmX</numerusform><numerusform>%n aktívnych spojení so sieťou AlarmX</numerusform></translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -873,16 +873,16 @@
         <translation>Nastavenie PrivateSend</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend bol úspešne nastavený na základnú hodnotu (%1 a 2 kolá). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Alarmx.</translation>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend bol úspešne nastavený na základnú hodnotu (%1 a 2 kolá). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky AlarmX.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>PrivateSend bol úspešne nastavený na základnú hodnotu (%1 a 8 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Alarmx.</translation>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>PrivateSend bol úspešne nastavený na základnú hodnotu (%1 a 8 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky AlarmX.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>PrivateSend bol úspešne nastavený na maximálnu hodnotu (%1 a 16 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Alarmx.</translation>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>PrivateSend bol úspešne nastavený na maximálnu hodnotu (%1 a 16 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky AlarmX.</translation>
     </message>
 </context>
 <context>
@@ -924,8 +924,8 @@
         <translation>Upraviť odosielaciu adresu</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Alarmx address.</source>
-        <translation>Zadaná adresa "%1" nie je platná Alarmx adresa.</translation>
+        <source>The entered address "%1" is not a valid AlarmX address.</source>
+        <translation>Zadaná adresa "%1" nie je platná AlarmX adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1041,8 +1041,8 @@
         <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude AlarmX Core ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>AlarmX Core stiahne a uloží kópiu reťazca blokov Alarmx. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
+        <source>AlarmX Core will download and store a copy of the AlarmX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core stiahne a uloží kópiu reťazca blokov AlarmX. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1225,8 +1225,8 @@
         <translation>(0 = auto, &lt;0 = nechať toľko jadier voľných)</translation>
     </message>
     <message>
-        <source>Amount of Alarmx to keep anonymized</source>
-        <translation>Suma Alarmx ktorú držať anonymne </translation>
+        <source>Amount of AlarmX to keep anonymized</source>
+        <translation>Suma AlarmX ktorú držať anonymne </translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>&amp;Start AlarmX Core on system login</source>
-        <translation>&amp;Spusť Alarmx po prihlásení do systému</translation>
+        <translation>&amp;Spusť AlarmX po prihlásení do systému</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
@@ -1265,8 +1265,8 @@
         <translation>Povoliť prichádzajúce spojenia</translation>
     </message>
     <message>
-        <source>Connect to the Alarmx network through a SOCKS5 proxy.</source>
-        <translation>Pripojiť sa do siete Alarmx cez proxy SOCKS5.</translation>
+        <source>Connect to the AlarmX network through a SOCKS5 proxy.</source>
+        <translation>Pripojiť sa do siete AlarmX cez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1458,8 +1458,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alarmx network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky zosynchronizuje so sieťou Alarmx akonáhle nadviaže spojenie, avšak tento proces ešte nebol dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlarmX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky zosynchronizuje so sieťou AlarmX akonáhle nadviaže spojenie, avšak tento proces ešte nebol dokončený.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1697,7 +1697,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <source>Cannot start alarmx: click-to-pay handler</source>
-        <translation>Alarmx sa nedá spustiť: click-to-pay handler</translation>
+        <translation>AlarmX sa nedá spustiť: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1712,8 +1712,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Neplatná adresa platby %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Alarmx address or malformed URI parameters.</source>
-        <translation>URI sa nedá analyzovať! Toto môže byť spôsobené neplatnou Alarmx adresou, alebo nesprávnym tvarom URI parametrov.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid AlarmX address or malformed URI parameters.</source>
+        <translation>URI sa nedá analyzovať! Toto môže byť spôsobené neplatnou AlarmX adresou, alebo nesprávnym tvarom URI parametrov.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1814,8 +1814,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Alarmx address (e.g. %1)</source>
-        <translation>Zadajte Alarmx adresu (e.g. %1)</translation>
+        <source>Enter a AlarmX address (e.g. %1)</source>
+        <translation>Zadajte AlarmX adresu (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2247,8 +2247,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Znovu použiť jestvujúcu prijímaciu adresu (neodporúča sa)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Alarmx network.</source>
-        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. Poznámka: Správa nebude poslaná spolu s platbou cez sieť Alarmx.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AlarmX network.</source>
+        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. Poznámka: Správa nebude poslaná spolu s platbou cez sieť AlarmX.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2259,8 +2259,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Voliteľný popis ktorý sa pridá k tejto novej prijímajúcej adrese.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Alarmx network.</source>
-        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. &lt;br&gt;Poznámka: Správa nebude poslaná spolu s platbou cez sieť Alarmx.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the AlarmX network.</source>
+        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. &lt;br&gt;Poznámka: Správa nebude poslaná spolu s platbou cez sieť AlarmX.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2517,7 +2517,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for alarmx transactions than the network can process.</source>
-        <translation>Platenie minimálneho poplatku je v poriadku pokiaľ je objem transakcií menší ako je miesto v bloku. &lt;br /&gt;Buďte opatrný pretože to môže skončiť s nikdy nepotvrdenými transakciami, akonáhle je dopyt po Alarmx transakciách väčší ako dokáže sieť Alarmx spracovať.</translation>
+        <translation>Platenie minimálneho poplatku je v poriadku pokiaľ je objem transakcií menší ako je miesto v bloku. &lt;br /&gt;Buďte opatrný pretože to môže skončiť s nikdy nepotvrdenými transakciami, akonáhle je dopyt po AlarmX transakciách väčší ako dokáže sieť AlarmX spracovať.</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2708,8 +2708,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation><numerusform>Odhad pre začiatok potvrdzovania je %n blok.</numerusform><numerusform>Odhad pre začiatok potvrdzovania sú %n bloky.</numerusform><numerusform>Odhad pre začiatok potvrdzovania je %n blokov.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Alarmx address</source>
-        <translation>Upozornenie: Neplatná Alarmx adresa</translation>
+        <source>Warning: Invalid AlarmX address</source>
+        <translation>Upozornenie: Neplatná AlarmX adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2731,8 +2731,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Zapla&amp;tiť:</translation>
     </message>
     <message>
-        <source>The Alarmx address to send the payment to</source>
-        <translation>Alarmx adresa pre poslanie platby</translation>
+        <source>The AlarmX address to send the payment to</source>
+        <translation>AlarmX adresa pre poslanie platby</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2775,8 +2775,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Správa:</translation>
     </message>
     <message>
-        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alarmx network.</source>
-        <translation>Správa ktorá bola pripojená ku alarmx: URI ktorá sa uchová spolu s transakciou pre Vašu referenciu. Poznámka: Táto správa nebude poslaná cez sieť Alarmx.</translation>
+        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AlarmX network.</source>
+        <translation>Správa ktorá bola pripojená ku alarmx: URI ktorá sa uchová spolu s transakciou pre Vašu referenciu. Poznámka: Táto správa nebude poslaná cez sieť AlarmX.</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -2821,8 +2821,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>The Alarmx address to sign the message with</source>
-        <translation>Alarmx adresa na podpísanie správy</translation>
+        <source>The AlarmX address to sign the message with</source>
+        <translation>AlarmX adresa na podpísanie správy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2853,8 +2853,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Alarmx address</source>
-        <translation>Podpísať spravu aby ste dokázali, že vlastníte túto Alarmx adresu</translation>
+        <source>Sign the message to prove you own this AlarmX address</source>
+        <translation>Podpísať spravu aby ste dokázali, že vlastníte túto AlarmX adresu</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2877,12 +2877,12 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Vložte adresu príjemcu, správu (uistite sa, že presne kopírujete ukončenia riadkov, medzery, odrážky, atď.) a podpis pre potvrdenie správy. Buďte opatrní a nedomýšľajte si viac než je uvedené v samotnej podpísanej správe a môžete sa tak vyhnúť podvodu MITM útokom. Toto len potvrdzuje, že podpisujúca strana môže prijímať na tejto adrese, nepotvrdzuje to vlastníctvo žiadnej transakcie!</translation>
     </message>
     <message>
-        <source>The Alarmx address the message was signed with</source>
-        <translation>Adresa Alarmx s ktorou bola podpísaná správa</translation>
+        <source>The AlarmX address the message was signed with</source>
+        <translation>Adresa AlarmX s ktorou bola podpísaná správa</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Alarmx address</source>
-        <translation>Overiť správu pre uistenie, že bola podpísaná zadanou Alarmx adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified AlarmX address</source>
+        <translation>Overiť správu pre uistenie, že bola podpísaná zadanou AlarmX adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3835,7 +3835,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
     </message>
     <message>
         <source>Copyright (C) 2014-%i The AlarmX Core Developers</source>
-        <translation>Autorské práva (C) 2014-%i Vývojári jadra Alarmx</translation>
+        <translation>Autorské práva (C) 2014-%i Vývojári jadra AlarmX</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4170,8 +4170,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>V pamäti udržiavať najviac &lt;n&gt; nepotvrdených transakcií (predvolené: %u)</translation>
     </message>
     <message>
-        <source>Disable all Alarmx specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-        <translation>Vypnúť všetky funkcie špecifické pre Alarmx (Masternodes, PrivateSend, InstantSend, Vláda) (0-1, predvolené: %u)</translation>
+        <source>Disable all AlarmX specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <translation>Vypnúť všetky funkcie špecifické pre AlarmX (Masternodes, PrivateSend, InstantSend, Vláda) (0-1, predvolené: %u)</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>

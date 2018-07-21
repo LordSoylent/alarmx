@@ -18,8 +18,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Alarmx"
-            VALUE "FileDescription",    "AlarmX Core (GUI node for Alarmx)"
+            VALUE "CompanyName",        "AlarmX"
+            VALUE "FileDescription",    "AlarmX Core (GUI node for AlarmX)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "alarmx-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR

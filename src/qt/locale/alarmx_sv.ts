@@ -58,12 +58,12 @@
         <translation>Mottagaradresser</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>De här är dina Alarmx-adresser för att skicka betalningar. Kontrollera alltid mängden och mottagaradressen innan du skickar mynt.</translation>
+        <source>These are your AlarmX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>De här är dina AlarmX-adresser för att skicka betalningar. Kontrollera alltid mängden och mottagaradressen innan du skickar mynt.</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>De här är dina Alarmx-adresser för betalningsmottagningar. Det rekommenderas att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your AlarmX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>De här är dina AlarmX-adresser för betalningsmottagningar. Det rekommenderas att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Plånbok krypterad</translation>
     </message>
     <message>
-        <source>Alarmx will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
-        <translation>Alarmx kommer nu att färdigställa krypteringsprocessen. Kom ihåg att krypteringen av din plånbok inte kan skydda dig helt och hållet från att dina Alarmx stjäls av skadeprogram som har infekterat din dator.</translation>
+        <source>AlarmX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <translation>AlarmX kommer nu att färdigställa krypteringsprocessen. Kom ihåg att krypteringen av din plånbok inte kan skydda dig helt och hållet från att dina AlarmX stjäls av skadeprogram som har infekterat din dator.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -244,8 +244,8 @@
         <translation>&amp;Skicka</translation>
     </message>
     <message>
-        <source>Send coins to a Alarmx address</source>
-        <translation>Skicka mynt till en Alarmx-adress</translation>
+        <source>Send coins to a AlarmX address</source>
+        <translation>Skicka mynt till en AlarmX-adress</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and alarmx: URIs)</source>
-        <translation>Begär betalningar (genererar QR-koder och Alarmx:-URI:s)</translation>
+        <translation>Begär betalningar (genererar QR-koder och AlarmX:-URI:s)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -288,8 +288,8 @@
         <translation>&amp;Alternativ...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx</source>
-        <translation>Anpassa konfigurationsalternatv för Alarmx</translation>
+        <source>Modify configuration options for AlarmX</source>
+        <translation>Anpassa konfigurationsalternatv för AlarmX</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -340,16 +340,16 @@
         <translation>Signera &amp;meddelande...</translation>
     </message>
     <message>
-        <source>Sign messages with your Alarmx addresses to prove you own them</source>
-        <translation>Signera meddelanden med dina Alarmx-adresser för att bevisa att du äger dem</translation>
+        <source>Sign messages with your AlarmX addresses to prove you own them</source>
+        <translation>Signera meddelanden med dina AlarmX-adresser för att bevisa att du äger dem</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Bekräfta meddelande...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alarmx addresses</source>
-        <translation>Bekräfta meddelanden för att garantera att de signerades med de angivna Alarmx-adresserna</translation>
+        <source>Verify messages to ensure they were signed with specified AlarmX addresses</source>
+        <translation>Bekräfta meddelanden för att garantera att de signerades med de angivna AlarmX-adresserna</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -405,15 +405,15 @@
     </message>
     <message>
         <source>Open a alarmx: URI or payment request</source>
-        <translation>Öppna en Alarmx-URI eller betalningsbegäran</translation>
+        <translation>Öppna en AlarmX-URI eller betalningsbegäran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Kommandoradalternativ</translation>
     </message>
     <message>
-        <source>Show the AlarmX Core help message to get a list with possible Alarmx command-line options</source>
-        <translation>Visa AlarmX Core-hjälpmeddelandet för att få en lista med möjliga Alarmx-kommandoradalternativ</translation>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX command-line options</source>
+        <translation>Visa AlarmX Core-hjälpmeddelandet för att få en lista med möjliga AlarmX-kommandoradalternativ</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -790,16 +790,16 @@ Adress: %4
         <translation>Darksend-konfiguration</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt om till grundläggande (%1 och 2 omgångar). Du kan ändra detta när som helst genom att öppna Alarmx:s konfigurationsskärm.</translation>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt om till grundläggande (%1 och 2 omgångar). Du kan ändra detta när som helst genom att öppna AlarmX:s konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt in på hög (%1 och 8 omgångar). Du kan ändra detta när som helst genom att öppna Alarmx:s konfigurationsskärm.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt in på hög (%1 och 8 omgångar). Du kan ändra detta när som helst genom att öppna AlarmX:s konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt in på maximal (%1 och 16 omgångar). Du kan ändra detta när som helst genom att öppna Alarmx:s konfigurationsskärm</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt in på maximal (%1 och 16 omgångar). Du kan ändra detta när som helst genom att öppna AlarmX:s konfigurationsskärm</translation>
     </message>
 </context>
 <context>
@@ -841,8 +841,8 @@ Adress: %4
         <translation>Redigera avsändaradress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Alarmx address.</source>
-        <translation>Den angivna adressen "%1" är inte en giltig Alarmx-adress.</translation>
+        <source>The entered address "%1" is not a valid AlarmX address.</source>
+        <translation>Den angivna adressen "%1" är inte en giltig AlarmX-adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -939,8 +939,8 @@ Adress: %4
         <translation>Då detta är första gången programmet startas kan du välja var AlarmX Core ska lagra sin data.</translation>
     </message>
     <message>
-        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>AlarmX Core kommer att laddas ned och lagra en kopia av Alarmx:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
+        <source>AlarmX Core will download and store a copy of the AlarmX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>AlarmX Core kommer att laddas ned och lagra en kopia av AlarmX:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -989,12 +989,12 @@ Adress: %4
         <translation>&amp;Huvud</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx after logging in to the system.</source>
-        <translation>Starta Alarmx automatiskt efter systeminloggning.</translation>
+        <source>Automatically start AlarmX after logging in to the system.</source>
+        <translation>Starta AlarmX automatiskt efter systeminloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx on system login</source>
-        <translation>&amp;Starta Alarmx vid systeminloggning</translation>
+        <source>&amp;Start AlarmX on system login</source>
+        <translation>&amp;Starta AlarmX vid systeminloggning</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1021,8 +1021,8 @@ Adress: %4
         <translation>Denna mängd fungerar som en tröskel att stänga av Darksend då det har uppnåtts.</translation>
     </message>
     <message>
-        <source>Amount of Alarmx to keep anonymized</source>
-        <translation>Mängd Alarmx att bibehålla anonymiserade</translation>
+        <source>Amount of AlarmX to keep anonymized</source>
+        <translation>Mängd AlarmX att bibehålla anonymiserade</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1049,8 +1049,8 @@ Adress: %4
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>Automatically open the Alarmx client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna Alarmx:s klientport automatiskt på routern. Detta fungerar bara om din router stöder UPnP och är aktiverad.</translation>
+        <source>Automatically open the AlarmX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna AlarmX:s klientport automatiskt på routern. Detta fungerar bara om din router stöder UPnP och är aktiverad.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1101,8 +1101,8 @@ Adress: %4
         <translation>Användargränssnitt&amp;språk: </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx.</source>
-        <translation>Användargränssnittspråket kan ställas in här. Denna inställning träder i kraft efter att Alarmx startats om.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX.</source>
+        <translation>Användargränssnittspråket kan ställas in här. Denna inställning träder i kraft efter att AlarmX startats om.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1182,8 +1182,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alarmx network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara utdaterad. Din plånbok synkroniseras automatiskt med Alarmx-nätverket efter att en anslutning har etablerats men denna process har ännu inte slutförts.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlarmX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara utdaterad. Din plånbok synkroniseras automatiskt med AlarmX-nätverket efter att en anslutning har etablerats men denna process har ännu inte slutförts.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1435,8 +1435,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Antal anslutningar</translation>
     </message>
     <message>
-        <source>Open the Alarmx debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Alarmxs avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
+        <source>Open the AlarmX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna AlarmXs avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1507,8 +1507,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the Alarmx RPC console.</source>
-        <translation>Välkommen till Alarmxs RPC-konsol.</translation>
+        <source>Welcome to the AlarmX RPC console.</source>
+        <translation>Välkommen till AlarmXs RPC-konsol.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1542,8 +1542,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Åt&amp;eranvänd en befintlig mottagaradress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Alarmx network.</source>
-        <translation>Ett valfritt meddelande att bifoga betalningsbegärandet vilket kommer att visas när begärandet öppnas. Observera: Meddelandet kommer inte att skickas med betalningen över Alarmx-nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AlarmX network.</source>
+        <translation>Ett valfritt meddelande att bifoga betalningsbegärandet vilket kommer att visas när begärandet öppnas. Observera: Meddelandet kommer inte att skickas med betalningen över AlarmX-nätverket.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -1899,8 +1899,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Fel: Plånboken låstes upp enbart för att anonymisera mynt.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Alarmx address</source>
-        <translation>Varning: Ogiltig Alarmx-adress</translation>
+        <source>Warning: Invalid AlarmX address</source>
+        <translation>Varning: Ogiltig AlarmX-adress</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1958,8 +1958,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Meddelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alarmx network.</source>
-        <translation>Ett meddelande som bifogades till Alarmx: URI vilket kommer att lagras med transaktionen så att du vet. Observera: Meddelandet kommer inte att skickas över Alarmx-nätverket.</translation>
+        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AlarmX network.</source>
+        <translation>Ett meddelande som bifogades till AlarmX: URI vilket kommer att lagras med transaktionen så att du vet. Observera: Meddelandet kommer inte att skickas över AlarmX-nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2036,8 +2036,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Kopiera den nuvarande valda signaturen till systemurklippet</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Alarmx address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Alarmx-adress</translation>
+        <source>Sign the message to prove you own this AlarmX address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna AlarmX-adress</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2060,8 +2060,8 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>Skriv in signeringsadressen, meddelandet, (försäkra dig om att du kopierar linjeavbrott, mellanslag, flikar med mera) och signera nedtill för att verifiera meddelandet. Var försiktig med att inte läsa in mer i signaturen än vad som finns i det signerade meddelandet för att undvika att bli lurad av en mellanhandattack.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Alarmx address</source>
-        <translation>Bekräfta meddelandet för att försäkra dig om att den signerades med den angivna Alarmx-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified AlarmX address</source>
+        <translation>Bekräfta meddelandet för att försäkra dig om att den signerades med den angivna AlarmX-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

@@ -864,7 +864,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Alarmx address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid AlarmX address"));
         }
         else // Valid address
         {

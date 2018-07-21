@@ -62,11 +62,11 @@
         <translation>正在接收地址</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your AlarmX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这些是你要付款过去的达世币地址。在付款之前，务必要检查金额和收款地址是否正确。</translation>
     </message>
     <message>
-        <source>These are your Alarmx addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your AlarmX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>这些是你用来收款的达世币地址。建议在每次交易时，都使用一个新的收款地址。</translation>
     </message>
     <message>
@@ -188,7 +188,7 @@
         <translation>钱包已加密</translation>
     </message>
     <message>
-        <source>Alarmx will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
+        <source>AlarmX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alarmxs from being stolen by malware infecting your computer.</source>
         <translation>达世币软体现在要关闭，以完成加密过程。请注意，加密钱包不能完全防止恶意软件入侵你的电脑盗取你的达世币。</translation>
     </message>
     <message>
@@ -255,7 +255,7 @@
         <translation>发送(&amp;S)</translation>
     </message>
     <message>
-        <source>Send coins to a Alarmx address</source>
+        <source>Send coins to a AlarmX address</source>
         <translation>发送币至达世币地址</translation>
     </message>
     <message>
@@ -303,7 +303,7 @@
         <translation>选项(&amp;O)...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Alarmx</source>
+        <source>Modify configuration options for AlarmX</source>
         <translation>修改达世币配置选项</translation>
     </message>
     <message>
@@ -355,7 +355,7 @@
         <translation>消息签名(&amp;M)...</translation>
     </message>
     <message>
-        <source>Sign messages with your Alarmx addresses to prove you own them</source>
+        <source>Sign messages with your AlarmX addresses to prove you own them</source>
         <translation>用达世币地址签署讯息来证明地址是你的</translation>
     </message>
     <message>
@@ -363,7 +363,7 @@
         <translation>验证消息(&amp;V)...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alarmx addresses</source>
+        <source>Verify messages to ensure they were signed with specified AlarmX addresses</source>
         <translation>验证讯息是用来确定讯息是用指定的达世币地址签署的</translation>
     </message>
     <message>
@@ -463,7 +463,7 @@
         <translation>正在同步附加数据:%p%</translation>
     </message>
     <message>
-        <source>Show the AlarmX Core help message to get a list with possible Alarmx command-line options</source>
+        <source>Show the AlarmX Core help message to get a list with possible AlarmX command-line options</source>
         <translation>打开达世币核心帮助信息取得可使用的命令行列表</translation>
     </message>
     <message>
@@ -487,7 +487,7 @@
         <translation>分页工具栏</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alarmx network</source>
+        <source>%n active connection(s) to AlarmX network</source>
         <translation><numerusform>%n 已连接至达世币网络</numerusform></translation>
     </message>
     <message>
@@ -896,15 +896,15 @@ Address: %4
         <translation>匿名发送配置</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
         <translation>匿名发送已成功设置为一般(%1到2次循环)。可以通过打开达世币配置窗口来随时修改。</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
         <translation>匿名发送已成功设置为高(%1到8次循环)。可以通过打开达世币配置窗口来随时修改。</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Alarmx's configuration screen.</source>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening AlarmX's configuration screen.</source>
         <translation>匿名发送已成功设置为最高(%1到16次循环)。可以通过打开达世币配置窗口来随时修改。</translation>
     </message>
 </context>
@@ -947,7 +947,7 @@ Address: %4
         <translation>编辑发送地址</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Alarmx address.</source>
+        <source>The entered address "%1" is not a valid AlarmX address.</source>
         <translation>输入的地址"%1"不是有效的达世币地址。</translation>
     </message>
     <message>
@@ -1057,7 +1057,7 @@ Address: %4
         <translation>此次为第一次程序启动，你可以选择储存达世币核心数据的路径。</translation>
     </message>
     <message>
-        <source>AlarmX Core will download and store a copy of the Alarmx block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>AlarmX Core will download and store a copy of the AlarmX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>达世币核心将会下载并存储达世币数据链。至少有%1GB的数据会保存到此路径下，并且随着时间增长。钱包文件也将存储到此路径下。</translation>
     </message>
     <message>
@@ -1123,11 +1123,11 @@ Address: %4
         <translation>主要(&amp;M)</translation>
     </message>
     <message>
-        <source>Automatically start Alarmx after logging in to the system.</source>
+        <source>Automatically start AlarmX after logging in to the system.</source>
         <translation>登录系统后自动启动达世币程序</translation>
     </message>
     <message>
-        <source>&amp;Start Alarmx on system login</source>
+        <source>&amp;Start AlarmX on system login</source>
         <translation>&amp;系统登录时启动达世币程序</translation>
     </message>
     <message>
@@ -1155,7 +1155,7 @@ Address: %4
         <translation>此金额为关闭匿名发送的极限.</translation>
     </message>
     <message>
-        <source>Amount of Alarmx to keep anonymized</source>
+        <source>Amount of AlarmX to keep anonymized</source>
         <translation>保持匿名化的达世币数</translation>
     </message>
     <message>
@@ -1175,7 +1175,7 @@ Address: %4
         <translation>接受外来链接</translation>
     </message>
     <message>
-        <source>Connect to the Alarmx network through a SOCKS5 proxy.</source>
+        <source>Connect to the AlarmX network through a SOCKS5 proxy.</source>
         <translation>通过SOCKS5代理链接达世币网络。</translation>
     </message>
     <message>
@@ -1207,7 +1207,7 @@ Address: %4
         <translation>网络(&amp;N)</translation>
     </message>
     <message>
-        <source>Automatically open the Alarmx client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AlarmX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动对路由器打开达世币客户端端口。此项只在路由器支持UPnP时有效。</translation>
     </message>
     <message>
@@ -1259,7 +1259,7 @@ Address: %4
         <translation>用户界面语言(&amp;L)：</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Alarmx.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting AlarmX.</source>
         <translation>用户界面语言在这里设置。在重启达世币程序后生效。</translation>
     </message>
     <message>
@@ -1348,7 +1348,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>表单</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alarmx network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AlarmX network after a connection is established, but this process has not completed yet.</source>
         <translation>显示信息也许已过期。当与达世币网络连接后钱包程序会自动同步，但现在还未完成。</translation>
     </message>
     <message>
@@ -1581,7 +1581,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>无效的付款地址 %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Alarmx address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid AlarmX address or malformed URI parameters.</source>
         <translation>链接不能被解析! 原因可能是无效的达世币地址或输入的链接有错。</translation>
     </message>
     <message>
@@ -1667,7 +1667,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>金额</translation>
     </message>
     <message>
-        <source>Enter a Alarmx address (e.g. %1)</source>
+        <source>Enter a AlarmX address (e.g. %1)</source>
         <translation>输入达世币地址(e.g. %1)</translation>
     </message>
     <message>
@@ -1757,7 +1757,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>连接数</translation>
     </message>
     <message>
-        <source>Open the Alarmx debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the AlarmX debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>从数据路径打开达世币Debug日志，这个过程可能需要几秒钟。</translation>
     </message>
     <message>
@@ -1965,7 +1965,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>输出：</translation>
     </message>
     <message>
-        <source>Welcome to the Alarmx RPC console.</source>
+        <source>Welcome to the AlarmX RPC console.</source>
         <translation>欢迎来到达世币RPC控制台。</translation>
     </message>
     <message>
@@ -2028,7 +2028,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>重用现有的接收地址（不推荐）</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Alarmx network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the AlarmX network.</source>
         <translation>附加在付款要求中的讯息，可以不填，打开要求内容时会显示。注意: 这个讯息不会随着付款送到达世币网路上。</translation>
     </message>
     <message>
@@ -2040,7 +2040,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>可为新建的收款地址添加一个标签。</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Alarmx network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the AlarmX network.</source>
         <translation>附加在付款要求中的讯息，可以不填，打开要求内容时会显示。&lt;br&gt;注意: 这个讯息不会随着付款送到达世币网路上。</translation>
     </message>
     <message>
@@ -2489,7 +2489,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>只付最低手续费%1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Alarmx address</source>
+        <source>Warning: Invalid AlarmX address</source>
         <translation>警告：无效的达世币地址</translation>
     </message>
     <message>
@@ -2512,7 +2512,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>付给(&amp;T)：</translation>
     </message>
     <message>
-        <source>The Alarmx address to send the payment to</source>
+        <source>The AlarmX address to send the payment to</source>
         <translation>选择发款地址</translation>
     </message>
     <message>
@@ -2552,7 +2552,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>消息：</translation>
     </message>
     <message>
-        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alarmx network.</source>
+        <source>A message that was attached to the alarmx: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the AlarmX network.</source>
         <translation>附加在达世币付款协议URI中的信息,会和交易内容一并存储,可供您参考.提示:此信息不会发送到达世币网络上.</translation>
     </message>
     <message>
@@ -2602,7 +2602,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>您可以用你的地址对消息进行签名，以证明您是该地址的所有人。注意不要对模棱两可的消息签名，以免遭受钓鱼式攻击。请确保消息内容准确的表达了您的真实意愿。</translation>
     </message>
     <message>
-        <source>The Alarmx address to sign the message with</source>
+        <source>The AlarmX address to sign the message with</source>
         <translation>对此地址进行签名</translation>
     </message>
     <message>
@@ -2634,7 +2634,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>复制当前签名至剪切板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Alarmx address</source>
+        <source>Sign the message to prove you own this AlarmX address</source>
         <translation>签署信息证明你拥有此达世币地址</translation>
     </message>
     <message>
@@ -2658,11 +2658,11 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>在下面输入签名地址，消息（请确保换行符、空格符、制表符等等一个不漏）和签名以验证消息。请确保签名信息准确，提防中间人攻击。</translation>
     </message>
     <message>
-        <source>The Alarmx address the message was signed with</source>
+        <source>The AlarmX address the message was signed with</source>
         <translation>已签名的地址</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Alarmx address</source>
+        <source>Verify the message to ensure it was signed with the specified AlarmX address</source>
         <translation>验证信息用来确保此被签署信息对应相对的达世币地址</translation>
     </message>
     <message>
@@ -3531,7 +3531,7 @@ https://www.transifex.com/projects/p/alarmx/</translation>
         <translation>删除钱包里的所有交易信息, 并且在下次启动时, 使用 -rescan 来从区块链中恢复</translation>
     </message>
     <message>
-        <source>Disable all Alarmx specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
+        <source>Disable all AlarmX specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
         <translation>禁止所有达世币附加功能(主节点, 匿名发送, 即时发送, 预算) (0-1, default: %u)</translation>
     </message>
     <message>
