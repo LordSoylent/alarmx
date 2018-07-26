@@ -118,10 +118,10 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_DIP0001].nThreshold = 3226; // 80% of 4032
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x00"); // 782700
+        consensus.nMinimumChainWork = uint256S("0x000000000000000000000000000000000000000000000000000000058ab2b400"); // 4031
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("0x00"); // 782700
+        consensus.defaultAssumeValid = uint256S("0x000000cccccaf2f0509a8edadd2db18eacf2da6124831367cf3f7232af740de0"); // 4031
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -149,13 +149,17 @@ public:
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed3.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed4.alarmx.io"));
         vSeeds.push_back(CDNSSeedData("alarmx.io", "seed5.alarmx.io"));
-        vSeeds.push_back(CDNSSeedData("chainexplorer.site", "dnsseed.chainexplorer.site"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed6.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed7.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed8.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed9.alarmx.io"));
+        vSeeds.push_back(CDNSSeedData("alarmx.io", "seed10.alarmx.io"));
 
         // Alarmx addresses start with 'A'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
         // Alarmx script addresses start with '9'
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,21);
-        // Alarmx private keys start with '9' or 'A'
+        // Alarmx private keys start with '6' or 'Q'
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,158);
         // Alarmx BIP32 pubkeys start with 'xpub' (Bitcoin defaults)
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x88)(0xB2)(0x1E).convert_to_container<std::vector<unsigned char> >();
@@ -180,9 +184,10 @@ public:
         checkpointData = (CCheckpointData) {
             boost::assign::map_list_of
             (  0, uint256S("00000ec2fe479009adc2c1f99ce83c436eda3e7d4063c06659688832280287de"))
+            (  4031, uint256S("000000cccccaf2f0509a8edadd2db18eacf2da6124831367cf3f7232af740de0"))
             ,
-            1531677300, // * UNIX timestamp of last checkpoint block
-            0,    // * total number of transactions between genesis and last checkpoint
+            1532601023, // * UNIX timestamp of last checkpoint block
+            540,    // * total number of transactions between genesis and last checkpoint
                         //   (the tx=... number in the SetBestChain debug.log lines)
             5000        // * estimated number of transactions per day after checkpoint
         };
